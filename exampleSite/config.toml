@@ -106,7 +106,7 @@ name = "À propos"
 weight = 2
 [[Languages.fr.menu.main]]
 URL = "project"
-name = "Projet"
+name = "Galerie"
 weight = 3
 [[Languages.fr.menu.main]]
 URL = "blog"
