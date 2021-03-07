@@ -86,7 +86,7 @@ name = "À propos"
 weight = 1
 [[Languages.fr.menu.footer]]
 URL = "project"
-name = "Gallerie"
+name = "Galerie"
 weight = "2"
 [[Languages.fr.menu.footer]]
 URL = "service"
