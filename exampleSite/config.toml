@@ -111,7 +111,6 @@ weight = 3
 [[Languages.fr.menu.main]]
 URL = "service"
 name = "Prestations"
-parent = "Pages"
 weight = "5"
 [[Languages.fr.menu.main]]
 URL = "blog"
