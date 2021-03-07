@@ -8,7 +8,7 @@ banner:
   button:
     enable: true
     label: Découvrez mes prestations
-    link: project
+    link: service
 about:
   enable: true
   title: About Us
