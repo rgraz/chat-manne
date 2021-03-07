@@ -93,17 +93,9 @@ URL = "service"
 name = "Prestations"
 weight = 3
 [[Languages.fr.menu.footer]]
-URL = "pricing"
-name = "Pricing"
-weight = 4
-[[Languages.fr.menu.footer]]
-URL = "faq"
-name = "FAQ"
-weight = 5
-[[Languages.fr.menu.footer]]
 URL = "contact"
 name = "Contact"
-weight = 6
+weight = "4"
 [[Languages.fr.menu.main]]
 URL = "/"
 name = "Accueil"
