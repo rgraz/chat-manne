@@ -90,7 +90,7 @@ name = "Galerie"
 weight = "2"
 [[Languages.fr.menu.footer]]
 URL = "service"
-name = "Service"
+name = "Prestations"
 weight = 3
 [[Languages.fr.menu.footer]]
 URL = "pricing"
