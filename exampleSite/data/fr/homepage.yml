@@ -3,7 +3,7 @@ banner:
   enable: true
   bg_image: images/photo-1487700160041-babef9c3cb55.jpeg
   bg_overlay: false
-  title: Marion Clair <br/> & Home Organizer
+  title: Marion Clair <br/> Home Organizer
   content: une super phrase d'accroche
   button:
     enable: true
