@@ -113,21 +113,10 @@ URL = "blog"
 name = "Blog"
 weight = 4
 [[Languages.fr.menu.main]]
-hasChildren = true
-name = "Pages"
-weight = 5
-[[Languages.fr.menu.main]]
-URL = "faq"
-name = "FAQ"
-parent = "Pages"
-[[Languages.fr.menu.main]]
-URL = "pricing"
-name = "Tarification"
-parent = "Pages"
-[[Languages.fr.menu.main]]
 URL = "service"
-name = "Un service"
+name = "Prestations"
 parent = "Pages"
+weight = "4"
 [[Languages.fr.menu.main]]
 URL = "contact"
 name = "Contact"
