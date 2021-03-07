@@ -97,7 +97,7 @@ URL = "contact"
 name = "Contact"
 weight = "4"
 [[Languages.fr.menu.main]]
-URL = "/"
+URL = ""
 name = "Accueil"
 weight = 1
 [[Languages.fr.menu.main]]
