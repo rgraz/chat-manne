@@ -12,6 +12,7 @@ disqusShortname = "" # get your shortname form here : https://disqus.com
 # disable language
 disableLanguages = ['en']
 defaultContentLanguage = 'fr'
+disableLanguageSwitchingButton = true
 
 ################################# Outputs #################################
 # hugo outputs
