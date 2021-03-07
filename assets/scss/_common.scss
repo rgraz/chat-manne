@@ -281,7 +281,7 @@ input[type="tel"] {
 
 .page-title {
   padding: 100px 0;
-  @extend .overly;
+  @extend .;
 
   .block {
     text-align: center;
@@ -594,7 +594,7 @@ input[type="tel"] {
     height: 100%;
     /*background: #1d192c;*/
     background: $primary-color;
-    opacity: 0.8;
+    opacity: 0.5;
   }
 }
 
