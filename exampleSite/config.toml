@@ -109,14 +109,14 @@ URL = "project"
 name = "Galerie"
 weight = 3
 [[Languages.fr.menu.main]]
-URL = "blog"
-name = "Blog"
-weight = 4
-[[Languages.fr.menu.main]]
 URL = "service"
 name = "Prestations"
 parent = "Pages"
 weight = "5"
+[[Languages.fr.menu.main]]
+URL = "blog"
+name = "Blog"
+weight = 4
 [[Languages.fr.menu.main]]
 URL = "contact"
 name = "Contact"
