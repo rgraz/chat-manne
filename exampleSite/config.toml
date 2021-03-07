@@ -82,12 +82,12 @@ languageName = "Fr"
 weight = 2
 [[Languages.fr.menu.footer]]
 URL = "about"
-name = "About"
+name = "À propos"
 weight = 1
 [[Languages.fr.menu.footer]]
 URL = "project"
-name = "Project"
-weight = 2
+name = "Gallerie"
+weight = "2"
 [[Languages.fr.menu.footer]]
 URL = "service"
 name = "Service"
