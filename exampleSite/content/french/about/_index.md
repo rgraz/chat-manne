@@ -1,6 +1,6 @@
 ---
-title: About Our Company
-description: this is meta description
+title: À propos
+description: Une description pertinente
 bg_image: "/images/pots.png"
 
 ---
