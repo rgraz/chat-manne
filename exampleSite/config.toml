@@ -125,15 +125,15 @@ unsafe = true
 [outputs]
 home = ["HTML"]
 [params]
-author = "Themefisher"
+author = "Marion Clair"
 contact_form_action = "#"
 description = "This is meta description"
 email = "demo@email.com"
 google_analitycs_id = ""
-location = "North Main Street,Brooklyn Australia"
+location = "Lyon, France"
 logo = "images/logo-mc.png"
 logo_width = "150px"
-mobile = "0124857985320"
+mobile = "+33123456789"
 multi_author = false
 [params.cookies]
 enable = true
