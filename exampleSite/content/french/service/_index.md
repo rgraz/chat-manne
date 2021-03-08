@@ -1,6 +1,6 @@
 ---
-title: Service
-description: this is meta description
+title: Prestations
+description: ''
 bg_image: images/canape.jpg
 
 ---
