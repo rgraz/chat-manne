@@ -67,7 +67,7 @@ sections:
   - new-page
 - type: directory
   path: exampleSite/content/french
-  label: All Pages (fr)
+  label: Toutes les pages (fr)
   create: all
   match: "**/*"
   templates:
