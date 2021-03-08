@@ -3,8 +3,8 @@ banner:
   enable: true
   bg_image: images/photo-1487700160041-babef9c3cb55.jpeg
   bg_overlay: false
-  title: Marion Clair <br/> Home Organizer
-  content: une super phrase d'accroche
+  title: Marion Clair <br/> Consultante en rangement
+  content: Accompagnement au changement
   button:
     enable: true
     label: Découvrez mes prestations
