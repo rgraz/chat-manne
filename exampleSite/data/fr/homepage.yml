@@ -1,7 +1,7 @@
 ---
 banner:
   enable: true
-  bg_image: images/photo-1487700160041-babef9c3cb55.jpeg
+  bg_image: "/images/plantes-12.jpg"
   bg_overlay: false
   title: Marion Clair <br/> Consultante en rangement
   content: Accompagnement au changement
