@@ -5,28 +5,28 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: heading
-  label: Blog Post
+  label: Posts de Blog
 - type: directory
   path: exampleSite/content/french/blog
-  label: Post (fr)
+  label: Posts
   create: documents
   match: "**/*"
   templates:
   - post
 - type: heading
-  label: Author
+  label: Auteurs
 - type: directory
   path: exampleSite/content/french/author
-  label: Author (fr)
+  label: Auteurs
   create: documents
   match: "**/*"
   templates:
   - author
 - type: heading
-  label: Project
+  label: Galerie
 - type: directory
   path: exampleSite/content/french/project
-  label: Project (fr)
+  label: Galerie
   create: documents
   match: "**/*"
   templates:
@@ -35,27 +35,22 @@ sections:
   label: Others Pages
 - type: directory
   path: exampleSite/content/french/about
-  label: About (fr)
+  label: A propos
   create: none
   match: "*"
 - type: directory
   path: exampleSite/content/french/service
-  label: Service (fr)
-  create: none
-  match: "*"
-- type: directory
-  path: exampleSite/content/french/pricing
-  label: Pricing (fr)
-  create: none
-  match: "*"
-- type: directory
-  path: exampleSite/content/french/faq
-  label: FAQ (fr)
+  label: Prestations
   create: none
   match: "*"
 - type: directory
   path: exampleSite/content/french/contact
-  label: Contact (fr)
+  label: Contact
+  create: none
+  match: "*"
+- type: directory
+  path: exampleSite/content/french/blog
+  label: Blog
   create: none
   match: "*"
 - type: directory
@@ -65,18 +60,11 @@ sections:
   match: "**/*"
   templates:
   - new-page
-- type: directory
-  path: exampleSite/content/french
-  label: Toutes les pages (fr)
-  create: all
-  match: "**/*"
-  templates:
-  - new-page
 - type: heading
-  label: Data
+  label: Données
 - type: directory
   path: exampleSite/data/fr
-  label: Data (fr)
+  label: Données
   create: all
   match: "**/*"
 - type: heading
