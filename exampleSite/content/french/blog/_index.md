@@ -1,6 +1,6 @@
 ---
 title: Latest News
 description: this is meta description
-bg_image: "/images/chambreblanche.jpg"
+bg_image: "/images/fleursroses.jpg"
 
 ---
