@@ -41,7 +41,7 @@ portfolio:
 service:
   enable: true
   title: Mes prestations
-  description: blablabla
+  description: ''
   service_item:
   - name: Test1
     content: moi
