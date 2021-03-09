@@ -1,6 +1,6 @@
 ---
 title: Prestations
 description: ''
-bg_image: images/fleurscoton.jpg
+bg_image: images/fleursblanches.jpg
 
 ---
