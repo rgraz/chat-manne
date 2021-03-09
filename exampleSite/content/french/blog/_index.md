@@ -1,6 +1,6 @@
 ---
 title: Le blog
 description: ''
-bg_image: "/images/pullsbleus.jpg"
+bg_image: "/images/texturerose.jpg"
 
 ---
