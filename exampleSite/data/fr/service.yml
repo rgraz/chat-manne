@@ -34,9 +34,9 @@ service:
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut
   - icon: ion-compass
-    name: Web Design
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
+    name: Après le deuil
+    content: Faire évoluer son espace de vie après un deuil est une étape difficile
+      à franchir. Je suis là pour vous épauler
   - icon: ion-image
     name: Home Staging
     content: Pas besoin d'acheter pour avoir la sensation d'une nouvelle maison !
