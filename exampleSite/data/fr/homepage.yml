@@ -1,7 +1,7 @@
 ---
 banner:
   enable: true
-  bg_image: "/images/plantes-19.jpg"
+  bg_image: "/images/portesouvertes.jpg"
   bg_overlay: false
   title: Marion Clair <br/> Consultante en rangement
   content: Accompagnement au changement
@@ -21,10 +21,10 @@ about:
     Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
     fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
     culpa qui officia deserunt mollit anim id.
-  image: "/images/plantes-17.jpg"
+  image: "/images/pousseverte.jpg"
 portfolio:
   enable: true
-  bg_image: "/images/gaelle-marcel-dft3t5r_4fe-unsplash.jpg"
+  bg_image: "/images/feuillesvase.jpg"
   title: Nous croyons au rangement
   content: " Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur
     ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris
@@ -41,7 +41,7 @@ portfolio:
 service:
   enable: true
   title: Mes prestations
-  description: blablabla
+  description: ''
   service_item:
   - name: Test1
     content: moi
