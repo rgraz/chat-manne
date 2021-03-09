@@ -1,6 +1,6 @@
 ---
 title: Prestations
 description: ''
-bg_image: images/fleursbouteille.jpg
+bg_image: images/monstera.jpg
 
 ---
