@@ -54,9 +54,9 @@ service:
       plus beau jour ? Je vous aider à trier et organiser votre presque-ex-maison
       !
   - icon: ion-planet
-    name: Brand Identity
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
+    name: Déménagement
+    content: Source de stress bien connue, préparer son déménagement permet de vivre
+      cette étape sereinement
   - icon: ion-earth
     name: Brand Identity
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
