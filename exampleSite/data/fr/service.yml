@@ -46,9 +46,8 @@ service:
     content: Sensible à ces pathologies, je saurais accompagner votre proche pour
       lui permettre de retrouver un espace sain
   - icon: ion-headphone
-    name: Logo Design
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
+    name: A B C D
+    content: Un deux trois quatre cinq six sept
   - icon: ion-leaf
     name: Development
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
