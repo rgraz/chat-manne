@@ -1,6 +1,6 @@
 ---
 title: À propos
 description: ''
-bg_image: "/images/blossom.jpg"
+bg_image: "/images/contourfleurs.jpg"
 
 ---
