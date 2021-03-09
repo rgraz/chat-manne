@@ -1,7 +1,7 @@
 ---
 title: Galerie
 description: ''
-bg_image: "/images/saloncanap.jpg"
+bg_image: "/images/galerietest2.jpg"
 image: ''
 
 ---
