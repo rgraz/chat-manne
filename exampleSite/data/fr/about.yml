@@ -18,9 +18,9 @@ features:
   title: Mes valeurs
   feature_item:
   - icon: ion-ios-color-filter-outline
-    name: IOS App Development
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
+    name: Confiance
+    content: Le meilleur résultat s'obtient par le travail d'équipe, entre vous et
+      moi
   - icon: ion-ios-unlocked-outline
     name: App Secutity
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
