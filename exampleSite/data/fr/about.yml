@@ -37,9 +37,8 @@ features:
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut
   - icon: ion-ios-star-outline
-    name: Branding
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
+    name: Qualité
+    content: 'Je m''engage à m''investir et vous pousser à obtenir le meilleur résultat '
 testimonial:
   enable: false
 mission_vision:
