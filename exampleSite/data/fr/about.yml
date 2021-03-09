@@ -11,8 +11,7 @@ about:
     enable: false
     label: Download Company Profile
     link: "#"
-  funfacts:
-  - ''
+  funfacts: []
 features:
   enable: true
   title: Mes valeurs
