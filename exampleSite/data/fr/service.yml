@@ -42,9 +42,9 @@ service:
     content: Pas besoin d'acheter pour avoir la sensation d'une nouvelle maison !
       Déplacer les meubles, les changer de pièce, l'harmonie est à portée de mains
   - icon: ion-bug
-    name: Start Up
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
+    name: Syllogomanie et Diogène
+    content: Sensible à ces pathologies, je saurais accompagner votre proche pour
+      lui permettre de retrouver un espace sain
   - icon: ion-headphone
     name: Logo Design
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
