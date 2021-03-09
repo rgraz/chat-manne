@@ -19,11 +19,10 @@ featured_service:
     color: primary-dark
     content: Je suis là pour que vous osiez sortir de votre zone de confort et puissiez
       respirer à nouveau
-  - name: Game Development
+  - name: Accompagnement
     icon: ion-lightbulb
     color: primary-darker
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim
-      impedit repudiandae omnis est temporibus.
+    content: Un deux trois quatre cinq six sept
 service:
   enable: true
   title: Mes prestations
