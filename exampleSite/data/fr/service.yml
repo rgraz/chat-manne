@@ -1,8 +1,11 @@
 ---
 about:
   enable: true
-  title: L'art de ranger
-  content: Soit je range, soit je vous apprends à ranger POUR LA VIE
+  title: You don't need more space, you need less stuff
+  content: |-
+    Parce que l'on confond souvent la notion de rangement avec celle d'organisation, faire appel à mes services vous permet d'être accompagné-e dans la phase la plus difficile lorsque l'on veut reprendre possession de son espace de vie : le tri.
+
+    Bien plus que votre foyer, c'est vous qui êtes au cœur de mon travail. Aussi, je m'adapte à vos besoins ; vous vous sentez autonomes et vous voulez simplement des conseils et la motivation d'une coach ? Je réponds à ce besoin ! Vous êtes au contraire submergé-e et espérez l'accompagnement complet face au désencombrement ? Je suis ravie de pouvoir vous guider !
   image: images/trio.png
 featured_service:
   enable: true
