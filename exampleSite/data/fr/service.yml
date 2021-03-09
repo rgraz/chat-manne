@@ -3,7 +3,7 @@ about:
   enable: true
   title: L'art de ranger
   content: Soit je range, soit je vous apprends à ranger POUR LA VIE
-  image: images/company/company-group-pic.jpg
+  image: images/trio.png
 featured_service:
   enable: true
   service_item:
