@@ -58,8 +58,7 @@ service:
     content: Source de stress bien connue, préparer son déménagement permet de vivre
       cette étape sereinement
   - icon: ion-earth
-    name: Brand Identity
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
+    name: 1 2 3 4 5 6
+    content: A B C D E F G
 cta:
   enable: false
