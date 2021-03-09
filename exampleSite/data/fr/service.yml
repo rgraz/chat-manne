@@ -10,11 +10,10 @@ about:
 featured_service:
   enable: true
   service_item:
-  - name: Interface Design
+  - name: Adaptabilité
     icon: ion-erlenmeyer-flask
     color: primary
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim
-      impedit repudiandae omnis est temporibus.
+    content: Vous donner confiance en votre instinct pour avancer vite et bien
   - name: Product Branding
     icon: ion-leaf
     color: primary-dark
