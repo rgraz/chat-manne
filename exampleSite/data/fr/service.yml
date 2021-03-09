@@ -30,9 +30,9 @@ service:
     <br> alors à chaque profil son projet personnalisé !
   service_item:
   - icon: ion-coffee
-    name: Branding
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
+    name: 'Retrouver la sérénité '
+    content: Par un concours de circonstances, votre maison est devenue hors de contrôle
+      et vous voulez juste y voir plus clair ? J'arrive !
   - icon: ion-compass
     name: Après le deuil
     content: Faire évoluer son espace de vie après un deuil est une étape difficile
