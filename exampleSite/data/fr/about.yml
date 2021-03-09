@@ -22,9 +22,8 @@ features:
     content: Le meilleur résultat s'obtient par le travail d'équipe, entre vous et
       moi
   - icon: ion-ios-unlocked-outline
-    name: App Secutity
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
+    name: Confidentialité
+    content: Je travaille avec vous avec empathie et discrétion
   - icon: ion-ios-game-controller-b-outline
     name: Games Development
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
