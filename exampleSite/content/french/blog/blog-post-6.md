@@ -1,12 +1,12 @@
 ---
-title: How To Wear Bright Shoes
+title: Le home staging, qu'est-ce que c'est ?
 date: 2021-03-11T15:00:10+00:00
 author: Marion Clair
 image: images/salleamangerepuree.jpg
 bg_image: images/salonepure.jpg
 categories: []
 tags: []
-description: this is meta description
+description: Et à quoi ça sert ?
 type: post
 draft: true
 
