@@ -1,10 +1,10 @@
 +++
 author = ""
-bg_image = ""
+bg_image = "/images/appareilphotoplage.jpg"
 categories = ["tri", "photos numériques"]
 date = 2021-02-08T12:00:00Z
 description = ""
-image = ""
+image = "/images/appareilphotoplage.jpg"
 tags = ["photos "]
 title = "Les photos numériques nous rendent-elles heureux ?"
 type = "post"
