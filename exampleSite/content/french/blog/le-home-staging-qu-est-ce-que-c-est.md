@@ -2,7 +2,7 @@
 author = "Marion Clair"
 bg_image = "/images/salonepurepetite.jpg"
 categories = ["concept", "home staging "]
-date = 2021-01-31T23:00:00Z
+date = 2021-02-01T12:00:00Z
 description = ""
 image = "/images/salonepurepetite.jpg"
 tags = ["home staging"]
