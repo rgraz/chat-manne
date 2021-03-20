@@ -34,4 +34,6 @@ fields:
   default: post
 pages:
 - exampleSite/content/french/blog/le-home-staging-qu-est-ce-que-c-est.md
+- exampleSite/content/french/blog/le-home-staging-qu-est-ce-que-c-est.md
+- exampleSite/content/french/blog/les-photos-numeriques-nous-rendent-elles-heureux.md
 - exampleSite/content/french/blog/les-photos-numeriques-nous-rendent-elles-heureux.md
