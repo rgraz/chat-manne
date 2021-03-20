@@ -5,7 +5,7 @@ categories = ["tri", "photos numériques"]
 date = 2021-02-08T12:00:00Z
 description = ""
 image = "/images/appareilphotoplage.jpg"
-tags = ["photos "]
+tags = ["tri", "photos "]
 title = "Les photos numériques nous rendent-elles heureux ?"
 type = "post"
 
