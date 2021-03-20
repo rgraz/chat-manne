@@ -1,10 +1,10 @@
 +++
 author = "Marion Clair"
-bg_image = "/images/salonepure.jpg"
+bg_image = ""
 categories = ["home staging "]
 date = 2021-01-31T23:00:00Z
 description = ""
-image = "/images/salonepure.jpg"
+image = ""
 tags = ["home staging"]
 title = "Le home staging, qu’est-ce que c’est ?"
 type = "post"
