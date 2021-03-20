@@ -1,38 +1,40 @@
 ---
-title: Le home staging, qu'est-ce que c'est ?
-date: 2021-03-11T15:00:10+00:00
-author: Marion Clair
-image: ''
-bg_image: ''
-categories: []
-tags: []
-description: Et à quoi ça sert ?
+title: How To Wear Bright Shoes
+date: 2018-09-24T11:07:10.000+06:00
+author: John Doe
+image: images/blog/blog-post-6.jpg
+bg_image: images/featue-bg.jpg
+categories:
+- Company News
+tags:
+- News
+- Retro
+- AI
+- Company
+description: this is meta description
 type: post
-draft: true
 
 ---
-Le _home staging_ est un concept venu des États-Unis qui vise à accélérer la vente d’un bien immobilier qui était depuis longtemps sur le marché, ou bien optimiser celle d’un bien nouvellement disponible. Littéralement « mise en scène de la maison », c’est un ensemble de techniques de décoration et de vente qui vise à rendre l’espace le plus attractif possible.
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit vitae placeat ad architecto nostrum asperiores
+vel aperiam, veniam eum nulla. Maxime cum magnam, adipisci architecto quibusdam cumque veniam fugiat quae. Lorem
+ipsum dolor sit amet, consectetur adipisicing elit. Odio vitae ab doloremque accusamus sit, eos dolorum officiis
+a perspiciatis aliquid. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, facere.
 
-1. L’économie
+> Lid est laborum dolo rumes fugats untras. Etharums ser quidem rerum facilis dolores nemis omnis fugats vitaes
+> nemo minima rerums unsers sadips amets.. Sed ut perspiciatis unde omnis iste natus error
 
-L’objectif est de vendre rapidement au prix déterminé ; ni de le revoir à la baisse, ni d’investir particulièrement dans des travaux ou des meubles. L’idée est d’utiliser ce que l’on possède déjà. Tout investissement (repeindre les murs de couleur claire, changer les rideaux aux motifs bariolés pour un modèle en lin neutre par exemple) a pour objectif de soit permettre la hausse du prix initial, soit l’acquisition pour le vendeur de biens de meilleure qualité, avec lesquels il repartira.
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum illo deserunt necessitatibus quibusdam sint,
+eos explicabo tenetur molestiae vero facere, aspernatur sit mollitia perferendis reiciendis. Deleniti magni
+explicabo sed alias fugit amet animi molestias ipsum maiores. Praesentium sint, id laborum quos. Tempora
+inventore est, dolor corporis quis doloremque nostrum, eos velit culpa quasi labore. Provident laborum porro
+nihil iste, magnam officia nemo praesentium autem, libero vel officiis. Omnis pariatur nam voluptatem voluptate
+at officia repellat ea beatae eligendi? Mollitia error saepe, aperiam facere. Optio maiores deleniti veritatis
+eaque commodi atque aperiam, debitis iste alias eligendi ut facilis earum! Impedit, tempore.
 
-1. Le désencombrement
+      .blog-classic {
+      margin-bottom: 70px;
+      padding-bottom: 70px;
+      border-bottom: 1px solid #efefef;
+      }
 
-Le concept a un objectif précis : optimiser la vente. Autrement dit, « déclencher le coup de cœur ». Et pour cela, la méthode est simple : il faut laisser la place à l’imagination des visiteurs pour se projeter sans effort. Les primo-accédants notamment (qui réalisent leur premier achat immobilier) n’ont pas nécessairement l’expérience suffisante pour voir le potentiel d’un bien. Les babioles, les photos de famille sur tous les murs et meubles visibles laissent peu de place au « je me sens déjà chez moi ». Donc, out les assiettes de notre grand-mère accrochées au mur, les figurines en porcelaine qui remplissent la vitrine au centre du salon. Bien évidemment, désencombrer sans ranger n’a pas de sens. Les paires de chaussures qui envahissent l’entrée doivent être hors de vue ! Il faut que l’espace soit aéré.
-
-![](/images/salleamangerepuree.jpg)
-
-1. Le réagencement
-
-Une fois intégrés les principes d’économie et de désencombrement, on peut réagencer les pièces au besoin. Vous aviez pris l’habitude de vous faufiler entre la porte d’entrée et du salon parce que votre canapé d’angle prend toute la place ? Essayez de le positionner plutôt dos au mur, afin de permettre une circulation optimale à travers les pièces. Votre logement n’a pas d’espace de stockage intégré, alors votre armoire de 2,50m de haut sur 3m de long était votre salut ? Super, mais gardez à l’esprit que l’espace au sol et la hauteur sous plafond occupés est autant de lumière et d’imagination saturée pour des personnes qui découvrent le lieu. Pensez minimalisme en termes de meubles, laissez la place à la lumière –espace au sol et hauteur sous plafond disponibles.
-
-1. Neutralité
-
-Finalement, le maître-mot est neutralité. Mieux vaut un espace trop épuré que trop personnel. La couleur est permise mais elle constitue toujours un risque. Les goûts et les couleurs ne s’expliquent pas, et même si vous pensez avoir décoré votre maison avec le meilleur des goûts, vous ne pouvez pas miser sur le fait que votre futur acheteur aura le même. Vous vendez des murs et un espace sain, et il faut que ce soit ça qui se voit : un bel espace, une belle lumière, du beau potentiel.
-
-![](/images/salonepure.jpg)
-
-En France, ce concept a été médiatisé grâce à l’émission de télévision [Maison à vendre](https://www.6play.fr/maison-a-vendre-p_874 "Maison à vendre M6") de M6. Si vous souhaitez vous faire une idée concrète des possibilités qu’offrent le _home staging_, je vous invite à consulter les épisodes.
-
-Présenter son espace sous son meilleur jour, c’est une condition sine qua none lorsque l’on souhaite le vendre. Mais pourquoi attendre de quitter son logement pour le voir sur son 31 ? Après tout, n’a-t-on pas toujours envie de vivre dans le meilleur espace possible ? Utiliser le _home staging_ simplement pour se réapproprier et redécouvrir son espace, c’est comme s’offrir un nouveau chez soi ! Vous avez tout ce dont vous avez besoin, il suffit de sortir de votre zone de confort -de ce à quoi vous vous êtes habitué à voir- pour percevoir le potentiel inexploité de vos pièces.
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ex error esse a dolore, architecto sapiente, aliquid commodi, laudantium eius nemo enim. Enim, fugit voluptatem rem molestiae. Sed totam quis accusantium iste nesciunt id exercitationem cumque repudiandae voluptas perspiciatis, consequatur quasi, molestias, culpa odio adipisci. Nesciunt optio fugiat iste quam modi, ex vitae odio pariatur! Corrupti explicabo at harum qui doloribus, sit dicta nemo, dolor, enim eum molestias fugiat obcaecati autem eligendi? Nisi delectus eaque architecto voluptatibus, unde sit minus quae quod eligendi soluta recusandae doloribus, officia, veritatis voluptatum eius aliquam quos. Consectetur, nisi? Veritatis totam, unde nostrum exercitationem tempora suscipit, molestias, deserunt ipsum laborum aut iste eaque? Vitae delectus dicta maxime non mollitia? Sapiente eos a quia eligendi deserunt repudiandae modi molestias tenetur autem pariatur ullam itaque, quas eveniet, illo quam rerum ex obcaecati voluptatum nesciunt incidunt culpa provident illum soluta. Voluptas possimus nesciunt inventoreppppp
