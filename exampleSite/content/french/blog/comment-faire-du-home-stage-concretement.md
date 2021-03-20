@@ -6,13 +6,13 @@ date = 2021-03-15T12:00:00Z
 description = ""
 image = "/images/salonhomestage.jpg"
 tags = ["home staging"]
-title = "Comment faire du home stage concrètement ?"
+title = "Comment faire du home staging concrètement ?"
 type = "post"
 
 +++
 ###### Temps de lecture : 6 minutes
 
-Vous avez compris en quoi consiste le _home stage_, mais concrètement, comment on s’y prend ?
+Vous avez compris en quoi consiste le _home staging_, mais concrètement, comment on s’y prend ?
 
 Dans le cas où vous vivez dans le bien que vous souhaitez vendre, il est essentiel que les visites éventuelles permettent le coup de cœur : votre résidence doit avoir l’air plus grande, plus lumineuse et plus saine que jamais. Les conseils qui vont suivre sont à appliquer pour le moment ponctuel de la visite, mais également en préparation, pour les photos que vous utiliserez pour l’annonce de votre bien. Des photos réussies garantissent le clic de l’acheteu-r-se, et de vous placer en haut de la liste de préférence et de prise de rendez-vous pour une visite. Des photos médiocres au contraire feront de votre bien le dernier de la liste, celui qu’on ira voir « si on a le temps ».
 
