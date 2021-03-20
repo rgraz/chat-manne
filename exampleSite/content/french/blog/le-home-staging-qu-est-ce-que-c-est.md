@@ -26,7 +26,7 @@ type = "post"
 
 <p style="text-align:justify;">Une fois intégrés les principes d’économie et de désencombrement, on peut réagencer les pièces au besoin. Vous aviez pris l’habitude de vous faufiler entre la porte d’entrée et du salon parce que votre canapé d’angle prend toute la place ? Essayez de le positionner plutôt dos au mur, afin de permettre une circulation optimale à travers les pièces. Votre logement n’a pas d’espace de stockage intégré, alors votre armoire de 2,50m de haut sur 3m de long était votre salut ? Super, mais gardez à l’esprit que l’espace au sol et la hauteur sous plafond occupés est autant de lumière et d’imagination saturée pour des personnes qui découvrent le lieu. Pensez minimalisme en termes de meubles, laissez la place –espace au sol et hauteur sous plafond- à la lumière.</p>
 
-![](/images/salleamangerepureepetite.jpg)
+![Une plante verte et un tapis pour donner un peu d'âme à la salle à manger](/images/salleamangerepureepetite.jpg)
 
 #### 4. Neutralité
 
