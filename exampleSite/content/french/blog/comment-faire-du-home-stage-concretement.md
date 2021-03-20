@@ -1,5 +1,5 @@
 +++
-author = ""
+author = "Marion Clair"
 bg_image = "/images/salonhomestage.jpg"
 categories = ["concept", "home staging"]
 date = 2021-03-15T12:00:00Z
