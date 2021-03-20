@@ -22,11 +22,11 @@ Imaginez que vous préparez votre espace comme un _AirBnB_ (location de particul
 
 Ces conseils s’appliquent en dernier lieu, comme étape finale avant une visite. Bien évidemment, le ménage doit être impeccable, l’espace agencé de façon aérée, _etc_.
 
-##### 1. L’extérieur
+#### 1. L’extérieur
 
 S’il s’agit d’un espace avec jardin ou balcon, veillez à ce qu’aucune feuille morte ne recouvre le sol, que le tuyau d’arrosage soit rangé, que les plantes mortes soient retirées. Pas de babioles sur la pelouse, de pots de plantes vides visibles, _out_ les nains de jardin et figurines en tout genre ! Il faut que l’espace soit frais et vivant.
 
-##### 2. L’intérieur
+#### 2. L’intérieur
 
 Veillez à la température ; en hiver, régulez le chauffage pour que ce soit cozy, en été, veillez à faire un courant d’air juste avant le début des visites pour donner l’impression d’air frais.
 
@@ -34,25 +34,25 @@ S’il y a une seule chose à retenir de ces conseils, c’est l’importance **
 
 Veillez à ce que toutes vos stores et volets soient bien ouverts afin que la lumière entre au maximum. Dégagez l’espace des rebords de fenêtres dans cette même idée.
 
-###### a. Le salon
+##### a. Le salon
 
 Pas de vie privée visible ! Ne laissez pas le sweat de votre enfant traîner sur une chaise, les jouets en plastique de votre bambin ou les portraits de famille disposés sur les meubles. Préférez des affiches neutres (plantes, illustrations, architecture) ou abstraites.
 
-###### b. La cuisine
+##### b. La cuisine
 
 Videz le lave-vaisselle, l’évier et la poubelle (pour éviter les odeurs). Le produit vaisselle et l’éponge doivent être rangés ; ils sont pratiques, mais le moment doit rimer avec « cuisine de rêve sortie d’un magazine » plutôt que « pratiquo-pratique ». Rangez le petit électroménager (blender, grille-pain, _etc._) à moins qu’il soit esthétique (design, rétro). Si vous en laissez exposé et que les câbles et les prises sont très visibles, débranchez-les pour le temps de la visite pour épurer au maximum. Epurez les plans de travail ; si votre pot à ustensiles déborde, laissez-en la moitié et rangez le reste dans un tiroirs. Pour vos tiroirs et placards ; soyez préparez à ce qu’ils puissent être ouverts ! Ne laissez rien déborder, ce qui laisserait imaginer que l’espace manque. Disposez vos réserves de nourriture le plus joliment et discrètement possible (paniers, corbeilles…). Quant au réfrigérateur ; out les aimants, et il le faut propre, rangé et sans odeur à l’intérieur pour inspirer une cuisine saine et propre aux visiteurs. Le must : avoir des biscuits fraîchement cuisinés à disposition sur un joli plat (et si vous ne cuisinez pas ; vous pouvez en acheter et les disposer de la même façon que s’ils sortaient du four ;)).
 
-###### c. La chambre
+##### c. La chambre
 
 Comme pour un _AirBnB_, il faut laisser l’impression que personne n’a jamais dormi dans cette chambre ; les draps doivent être impeccables (pas de tâches/poils d’animaux en vue), le lit bien fait. Votre chambre doit avoir l’air de celle d’un hôtel de luxe pour le temps de la visite.
 
-###### d. La salle de bain
+##### d. La salle de bain
 
 Si vous avez une ventilation, veillez à ce qu’elle soit éteinte ; allumée elle pourrait laisser penser que l’espace est si humide qu’elle doit être en fonctionnement constant. C’est essentiel que la pièce ne soit pas humide et ne sente pas le renfermé. Pour tous les produits de toilette ; à moins qu’ils soient particulièrement esthétiques (_Aesop_ par exemple), rangez-les. Les brosses à dents, le shampoing L’Oréal et le gel douche Axe ne vendent pas du rêve ^^. Les pains de savons ont le droit de rester, eux :p. À moins que vos serviettes de bain soient unies et de couleur neutre, préférez-les rangées également. L’idéal, c’est une plante ou une bougie pour une impression chaleureuse.
 
 Pour le cas de toilettes : baisser le siège des toilettes est absolument nécessaire !
 
-###### e. Penderie, placard ou dressing
+##### e. Penderie, placard ou dressing
 
 C’est l’espace clé qui doit permettre d’imaginer qu’il y a plus d’espace que nécessaire. S’il est plein, épurez et rangez au maximum afin qu’il reste de l’espace disponible.
 
