@@ -30,7 +30,7 @@ S’il s’agit d’un espace avec jardin ou balcon, veillez à ce qu’aucune f
 
 Veillez à la température ; en hiver, régulez le chauffage pour que ce soit cozy, en été, veillez à faire un courant d’air juste avant le début des visites pour donner l’impression d’air frais.
 
-S’il y a une seule chose à retenir de ces conseils, c’est l’importance **du parfum de votre intérieur**. Ne cuisinez pas de poisson ou de plat épicé juste avant, changez la litière du chat, et n’utilisez pas de parfum d’intérieur sur prises électriques. Ces parfums synthétiques crient « cache-misère ! » et ne sentent pas le frais. Préférez simplement aérer longuement, utiliser des bougies naturelles (discrètes de packaging), qui ont le mérite d’ajouter à l’esprit cozy, ou encore un diffuseur d’huile essentielle discret.
+S’il y a une seule chose à retenir de ces conseils, c’est l’importance **du parfum de votre intérieur**. Ne cuisinez pas de poisson ou de plat épicé juste avant, changez la litière du chat, et n’utilisez pas de diffuseur de parfum d’intérieur sur prises électriques. Ces parfums synthétiques crient « cache-misère ! » et ne sentent pas le frais. Préférez simplement aérer longuement, utiliser des bougies naturelles (discrètes de packaging), qui ont le mérite d’ajouter à l’esprit cozy, ou encore un diffuseur d’huile essentielle discret.
 
 Veillez à ce que toutes vos stores et volets soient bien ouverts afin que la lumière entre au maximum. Dégagez l’espace des rebords de fenêtres dans cette même idée.
 
