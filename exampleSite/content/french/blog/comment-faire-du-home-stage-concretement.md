@@ -1,10 +1,10 @@
 +++
 author = ""
-bg_image = ""
+bg_image = "/images/salonhomestage.jpg"
 categories = []
 date = 2021-03-15T12:00:00Z
 description = ""
-image = ""
+image = "/images/salonhomestage.jpg"
 tags = []
 title = "Comment faire du home stage concrètement ?"
 type = "post"
