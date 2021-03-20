@@ -10,7 +10,7 @@ title = "Les photos numériques nous rendent-elles heureux ?"
 type = "post"
 
 +++
-Temps de lecture : 10 minutes
+###### Temps de lecture : 10 minutes
 
 Comme beaucoup de gens sans doute, j’adore prendre des photos numériques. Les portraits ont ma préférence. Depuis ma préadolescence, j’ai eu accès à un appareil photo numérique régulièrement. À l’époque (\~2001), c’était assez nouveau et exceptionnel, mes amies et moi consacrions des après-midi entiers à prendre des photos ; c’était un loisir comme un autre.
 
