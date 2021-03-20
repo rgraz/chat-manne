@@ -1,5 +1,5 @@
 +++
-author = ""
+author = "Marion Clair"
 bg_image = "/images/appareilphotoplage.jpg"
 categories = ["tri", "photos numériques"]
 date = 2021-02-08T12:00:00Z
