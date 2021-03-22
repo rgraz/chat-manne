@@ -11,17 +11,19 @@ pricing:
     - Un entretien téléphonique pour préparer une première visite
     - Une visite d'environ 1h pour évaluer la situation
     - Un retour complet avec les solutions que je vous propose et un devis si nécessaire
-  - name: Premium
-    price: "$199"
-    content: Suitable for small businesses with up to 5 employees
+  - name: Mission ponctuelle
+    price: À partir de 70€/heure, selon projet.
+    content: Que ce soit pour trier un dressing, ranger une pièce ou encore organiser
+      un atelier, je vous propose des aides ponctuelles. Les besoins en temps seront
+      fixés à partir d'un premier entretien téléphonique qui me permettra d'adapter
+      mon offre à vos besoins.
     link: "#"
     services:
-    - Unlimited agents
-    - 10 PSD Design
-    - HTML5 Markup
-    - Basic SEO
-    - Email Marketing
-    - 24/7 Tech Support
+    - Un entretien téléphonique pour définir vos besoins
+    - Une session tri, ...
+    - "... ou rangement ..."
+    - "... ou organisation ..."
+    - "... ou autre, quels que soient vos besoins !"
   - name: Advance
     price: "$299"
     content: Suitable for large businesses with unlimited employees
