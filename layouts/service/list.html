@@ -42,6 +42,13 @@
 {{ end }}
 {{ end }}
 
+<!-- Service -->
+{{ if $data.service.service.enable }}
+{{ partial "service.html" . }}
+{{ end }}
+<!-- /service -->
+
+
 {{ if $data.service.pricing.enable }}
 {{ with $data.pricing.pricing }}
 <section class="pricing-table section bg-gray">
@@ -73,11 +80,6 @@
 {{ end }}
 
 
-<!-- Service -->
-{{ if $data.service.service.enable }}
-{{ partial "service.html" . }}
-{{ end }}
-<!-- /service -->
 
 <!-- Call to action -->
 {{ if $data.service.cta.enable }}
