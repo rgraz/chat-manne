@@ -35,7 +35,7 @@ service:
   - icon: ion-coffee
     name: 'Retrouver la sérénité '
     content: 'Par un concours de circonstances, votre maison est devenue hors de contrôle
-      et vous voulez juste y voir plus clair '
+      et vous voulez y voir plus clair '
   - icon: ion-image
     name: Home Staging
     content: Pour avoir la sensation d'une nouvelle maison ! Déplacer les meubles,
