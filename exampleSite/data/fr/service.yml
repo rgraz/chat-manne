@@ -30,8 +30,7 @@ featured_service:
 service:
   enable: true
   title: Mes prestations
-  description: Il n'y a pas qu'une seule façon de profiter d'un espace de vie rangé,
-    <br> alors à chaque profil son projet personnalisé !
+  description: À chaque profil son projet personnalisé
   service_item:
   - icon: ion-coffee
     name: 'Retrouver la sérénité '
