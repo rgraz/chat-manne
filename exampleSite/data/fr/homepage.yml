@@ -30,7 +30,7 @@ portfolio:
     m’adapte à vos besoins ; vous vous sentez autonomes et vous voulez simplement
     des conseils et la motivation d’une coach ? Je réponds à ce besoin ! Vous êtes
     au contraire submergé-e et espérez l’accompagnement complet face au désencombrement
-    ? Je suis ravie de pouvoir vous guider !\n\n"
+    ? Je suis ravie de pouvoir vous guider !</br>\n\n\n"
   button:
     enable: true
     label: À propos de moi
