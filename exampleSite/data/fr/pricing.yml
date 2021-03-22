@@ -12,7 +12,7 @@ pricing:
     - Une visite d'environ 1h pour évaluer la situation
     - Un retour complet avec les solutions que je vous propose et un devis si nécessaire
   - name: Mission ponctuelle
-    price: À partir de 70€/heure, selon projet.
+    price: À partir de 70€/h
     content: Que ce soit pour trier un dressing, ranger une pièce ou encore organiser
       un atelier, je vous propose des aides ponctuelles. Les besoins en temps seront
       fixés à partir d'un premier entretien téléphonique qui me permettra d'adapter
@@ -25,7 +25,7 @@ pricing:
     - "... ou organisation ..."
     - "... ou autre, quels que soient vos besoins !"
   - name: Accompagnement et suivi
-    price: En fonction de vos besoins, à partir de 60€/h
+    price: À partir de 60€/h
     content: Pour vos projets les plus conséquents, home staging, organisation de
       toute la maison, coaching ou formation en rangement, je propose un service flexible
       et adaptable à votre situation. Pour les particuliers comme les professionnels.
