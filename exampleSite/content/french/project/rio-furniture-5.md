@@ -1,8 +1,8 @@
 ---
-title: Rio Furniture
+title: Rio Furniture 3
 description: Test Testfds
-image: images/portfolio/work5.jpg
-bg_image: images/featue-bg.jpg
+image: "/images/inspi-3.jpg"
+bg_image: "/images/inspi-3.jpg"
 category: Illustration
 information:
 - label: Client
