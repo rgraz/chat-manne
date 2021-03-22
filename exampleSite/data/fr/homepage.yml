@@ -18,15 +18,15 @@ about:
 portfolio:
   enable: true
   bg_image: "/images/feuillesvase.jpg"
-  title: Nous croyons au rangement
-  content: " Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur
-    ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris
-    condimentum nibh, ut fermentum massa justo sit amet risus.\n\nMaecenas faucibus
-    mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
-    Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum
-    massa justo sit amet risus.\n\nMaecenas faucibus mollis interdum. Morbi leo risus,
-    porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo,
-    tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. "
+  title: Écoute et bienveillance
+  content: Après m'avoir contactée par mail, je vous appelle afin que l'on détermine
+    ensemble vos besoins et vos attentes. Cet entretien téléphonique ne vous engage
+    en rien ; il me permet de me faire une première idée de votre logement (surface
+    à transformer, votre temps de disponibilité, etc.), et de vous sentir en confiance.
+    Je vous fais de mon opinion, et si vous êtes prêt-e, on fixe alors un rendez-vous.
+    C’est lors de ce rendez-vous diagnostic que l’on confirme et construit un plan
+    d’action lorsque vous avez besoin d’un accompagnement suivi, ou bien que l’on
+    passe à l’action si c’est pour une mission ponctuelle.
   button:
     enable: true
     label: Voir la galerie
