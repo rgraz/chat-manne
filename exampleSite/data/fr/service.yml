@@ -42,8 +42,8 @@ service:
       de mains
   - icon: ion-leaf
     name: Préparation à la vente
-    content: 'Vous voulez vendre votre bien et avez besoin de le présenter sous son
-      plus beau jour '
+    content: 'Vous allez vendre votre bien et avez besoin de le présenter sous son
+      meilleur jour '
   - icon: ion-earth
     name: Déménagement
     content: Source de stress bien connue, préparer son déménagement permet de vivre
