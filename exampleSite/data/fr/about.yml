@@ -16,25 +16,13 @@ features:
   enable: true
   title: Mes valeurs
   feature_item:
-  - icon: ion-ios-color-filter-outline
-    name: Confiance
-    content: Le meilleur résultat s'obtient par le travail d'équipe, entre vous et
-      moi
   - icon: ion-ios-unlocked-outline
     name: Confidentialité
     content: Je travaille avec vous avec empathie et discrétion
-  - icon: ion-ios-game-controller-b-outline
-    name: Games Development
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
   - icon: ion-ios-mic-outline
     name: Écoute
     content: L'écoute est au centre de mon travail, pour vous comprendre et vous faire
       avancer à votre rythme
-  - icon: ion-ios-lightbulb-outline
-    name: UI/UX Design
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
   - icon: ion-ios-star-outline
     name: Qualité
     content: 'Je m''engage à m''investir et vous pousser à obtenir le meilleur résultat '
