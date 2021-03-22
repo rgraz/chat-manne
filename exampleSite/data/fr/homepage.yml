@@ -12,9 +12,7 @@ banner:
 about:
   enable: true
   title: Écoute et bienveillance
-  description: Far far away, behind the word mountains, far from the countries Vokalia
-    and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
-    right at the coast of the Semantics
+  description: ''
   content: |-
     Parce que l’on confond souvent la notion de rangement avec celle d’organisation, faire appel à mes services vous permet d’être accompagné-e dans la phase la plus difficile lorsque l’on veut reprendre possession de son espace de vie : le tri.
 
