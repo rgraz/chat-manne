@@ -24,16 +24,15 @@ pricing:
     - "... ou rangement ..."
     - "... ou organisation ..."
     - "... ou autre, quels que soient vos besoins !"
-  - name: Advance
-    price: "$299"
-    content: Suitable for large businesses with unlimited employees
+  - name: Accompagnement et suivi
+    price: En fonction de vos besoins, à partir de 60€/h
+    content: Pour vos projets les plus conséquents, home staging, organisation de
+      toute la maison, coaching ou formation en rangement, je propose un service flexible
+      et adaptable à votre situation. Pour les particuliers comme les professionnels.
     link: "#"
     services:
-    - Unlimited agents
-    - 10 PSD Design
-    - HTML5 Markup
-    - Basic SEO
-    - Email Marketing
-    - 24/7 Tech Support
+    - Une visite diagnostique inclue
+    - Un service échelonné sur plusieurs sessions, selon vos besoins
+    - Un tarif dégressif
 cta:
   enable: true
