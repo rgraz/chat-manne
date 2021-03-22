@@ -1,6 +1,6 @@
 ---
 title: Le blog
 description: ''
-bg_image: "/images/pilelivres.jpg"
+bg_image: "/images/fleursblanches.jpg"
 
 ---
