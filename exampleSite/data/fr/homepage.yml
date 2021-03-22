@@ -13,7 +13,13 @@ about:
   enable: true
   title: 'Home organiser : trier <i>puis</i> ranger'
   description: ''
-  content: ''
+  content: "Home organiser, coach ou consultante en rangement... Autant de dénominations
+    que de méthodes. \n\nJe privilégie le travail sur le fond plutôt que sur la forme
+    ; je suis là pour vous aider à distinguer ce qui est essentiel pour vous de ce
+    qui est superflu. \n\nParce qu'il est aisé de confondre la notion de rangement
+    avec celle d’organisation, faire appel à mes services vous permet d’être accompagné-e
+    dans la phase la plus difficile lorsque l’on veut reprendre possession de son
+    espace de vie : le tri.\n"
   image: "/images/trio.png"
 portfolio:
   enable: true
