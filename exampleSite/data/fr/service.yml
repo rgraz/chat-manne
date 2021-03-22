@@ -37,18 +37,10 @@ service:
     name: 'Retrouver la sérénité '
     content: Par un concours de circonstances, votre maison est devenue hors de contrôle
       et vous voulez juste y voir plus clair ? J'arrive !
-  - icon: ion-compass
-    name: Après le deuil
-    content: Faire évoluer son espace de vie après un deuil est une étape difficile
-      à franchir. Je suis là pour vous épauler
   - icon: ion-image
     name: Home Staging
-    content: Pas besoin d'acheter pour avoir la sensation d'une nouvelle maison !
-      Déplacer les meubles, les changer de pièce, l'harmonie est à portée de mains
-  - icon: ion-bug
-    name: Syllogomanie et Diogène
-    content: Sensible à ces pathologies, je saurais accompagner votre proche pour
-      lui permettre de retrouver un espace sain
+    content: Pour avoir la sensation d'une nouvelle maison ! Déplacer les meubles,
+      les changer de pièce, l'harmonie est à portée de mains
   - icon: ion-leaf
     name: Préparation à la vente
     content: Vous voulez vendre votre bien et avez besoin de le présenter sous son
@@ -58,6 +50,14 @@ service:
     name: Déménagement
     content: Source de stress bien connue, préparer son déménagement permet de vivre
       cette étape sereinement
+  - icon: ion-compass
+    name: Après le deuil
+    content: Faire évoluer son espace de vie après un deuil est une étape difficile
+      à franchir. Je suis là pour vous épauler
+  - icon: ion-bug
+    name: Syllogomanie et Diogène
+    content: Sensible à ces pathologies, je saurais accompagner votre proche pour
+      lui permettre de retrouver un espace sain
 cta:
   enable: false
 pricing:
