@@ -11,10 +11,10 @@ banner:
     link: service
 about:
   enable: true
-  title: Home organiser, coach en rangement, pour vous servir
+  title: 'Home organiser : trier <i>puis</i> ranger'
   description: ''
   content: ''
-  image: "/images/pousseverte.jpg"
+  image: "/images/trio.png"
 portfolio:
   enable: true
   bg_image: "/images/feuillesvase.jpg"
