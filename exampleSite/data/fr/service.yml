@@ -43,9 +43,8 @@ service:
       les changer de pièce, l'harmonie est à portée de mains
   - icon: ion-leaf
     name: Préparation à la vente
-    content: Vous voulez vendre votre bien et avez besoin de le présenter sous son
-      plus beau jour ? Je vous aider à trier et organiser votre presque-ex-maison
-      !
+    content: 'Vous voulez vendre votre bien et avez besoin de le présenter sous son
+      plus beau jour '
   - icon: ion-earth
     name: Déménagement
     content: Source de stress bien connue, préparer son déménagement permet de vivre
