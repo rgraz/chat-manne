@@ -3,7 +3,7 @@ title: Rio Furniture 2
 description: this is meta description
 image: "/images/inspi-2.jpg"
 bg_image: "/images/inspi-2.jpg"
-category: UI/UX Design
+category: Salon
 information:
 - label: Client
   info: Jannie Kelonsky

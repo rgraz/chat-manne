@@ -1,9 +1,9 @@
 ---
 title: Rio Furniture 3
-description: Test Testfds
+description: 'Test '
 image: "/images/inspi-3.jpg"
 bg_image: "/images/inspi-3.jpg"
-category: Illustration
+category: Chambre
 information:
 - label: Client
   info: Jannie Kelonsky
