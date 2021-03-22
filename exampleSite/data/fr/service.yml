@@ -49,21 +49,15 @@ service:
     name: Syllogomanie et Diogène
     content: Sensible à ces pathologies, je saurais accompagner votre proche pour
       lui permettre de retrouver un espace sain
-  - icon: ion-headphone
-    name: A B C D
-    content: Un deux trois quatre cinq six sept
   - icon: ion-leaf
     name: Préparation à la vente
     content: Vous voulez vendre votre bien et avez besoin de le présenter sous son
       plus beau jour ? Je vous aider à trier et organiser votre presque-ex-maison
       !
-  - icon: ion-planet
+  - icon: ion-earth
     name: Déménagement
     content: Source de stress bien connue, préparer son déménagement permet de vivre
       cette étape sereinement
-  - icon: ion-earth
-    name: 1 2 3 4 5 6
-    content: A B C D E F G
 cta:
   enable: false
 pricing:
