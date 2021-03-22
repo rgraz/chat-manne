@@ -10,7 +10,7 @@ about:
 pricing:
   enable: true
 featured_service:
-  enable: true
+  enable: false
   service_item:
   - name: Adaptabilité
     icon: ion-erlenmeyer-flask
