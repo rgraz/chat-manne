@@ -38,8 +38,8 @@ service:
       et vous voulez y voir plus clair '
   - icon: ion-image
     name: Home Staging
-    content: Pour avoir la sensation d'une nouvelle maison ! Déplacer les meubles,
-      les changer de pièce, l'harmonie est à portée de mains
+    content: Pour avoir la sensation d'une nouvelle maison ! L'harmonie est à portée
+      de mains
   - icon: ion-leaf
     name: Préparation à la vente
     content: 'Vous voulez vendre votre bien et avez besoin de le présenter sous son
