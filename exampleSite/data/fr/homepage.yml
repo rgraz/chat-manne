@@ -36,7 +36,7 @@ portfolio:
     label: Voir la galerie
     link: project
 service:
-  enable: true
+  enable: false
   title: Mes prestations
   description: ''
   service_item:
