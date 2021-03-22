@@ -3,7 +3,7 @@ title: Rio Furniture 4
 description: this is meta description
 image: "/images/inspi-4.jpg"
 bg_image: "/images/inspi-4.jpg"
-category: UI/UX Design
+category: Cuisine
 information:
 - label: Client
   info: Jannie Kelonsky
