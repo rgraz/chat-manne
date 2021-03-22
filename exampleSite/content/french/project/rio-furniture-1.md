@@ -3,7 +3,7 @@ title: Rio Furniture 4
 description: this is meta description
 image: "/images/inspi-4.jpg"
 bg_image: "/images/inspi-4.jpg"
-category: Cuisine
+category: Chambre
 information:
 - label: Client
   info: Jannie Kelonsky
