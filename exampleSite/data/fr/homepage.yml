@@ -33,8 +33,8 @@ portfolio:
     ? Je suis ravie de pouvoir vous guider !\n"
   button:
     enable: true
-    label: Voir la galerie
-    link: project
+    label: À propos de moi
+    link: about
 service:
   enable: false
   title: Mes prestations
