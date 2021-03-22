@@ -3,7 +3,7 @@ title: Rio Furniture 6
 description: this is meta description
 image: "/images/inspi-6.jpg"
 bg_image: "/images/inspi-6.jpg"
-category: Video
+category: Salon
 information:
 - label: Client
   info: Jannie Kelonsky
