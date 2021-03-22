@@ -3,7 +3,7 @@ title: Rio Furniture 1
 description: this is meta description
 image: "/images/inspi-1.jpg"
 bg_image: "/images/inspi-1.jpg"
-category: Illustration
+category: Salon
 information:
 - label: Client
   info: Jannie Kelonsky
