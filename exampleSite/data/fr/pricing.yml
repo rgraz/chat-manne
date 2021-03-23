@@ -26,14 +26,14 @@ pricing:
     - Session complète de 3h pour une pièce/atelier - 210€
     - Session complète pour une pièce/atelier - 280€
   - name: Accompagnement et suivi
-    price: À partir de 60€/h
-    content: Pour vos projets les plus conséquents, home staging, organisation de
-      toute la maison, coaching ou formation en rangement, je propose un service flexible
-      et adaptable à votre situation. Pour les particuliers comme les professionnels.
-    link: "#"
+    price: Dès 60€/h
+    content: Pour vos projets plus conséquents ; <i>home staging</i>, plusieurs pièces/catégories,
+      coaching en rangement... Je propose un service flexible et adaptable à votre
+      situation. Pour les particuliers comme les professionnels.
+    link: contact
     services:
-    - Une visite diagnostique inclue
-    - Un service échelonné sur plusieurs sessions, selon vos besoins
+    - La visite diagnostique inclus
+    - Des forfaits échelonnés de façon hebdomadaire ou mensuelle
     - Un tarif dégressif
 cta:
   enable: true
