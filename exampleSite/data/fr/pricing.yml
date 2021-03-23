@@ -21,9 +21,9 @@ pricing:
     services:
     - Un entretien téléphonique pour définir vos besoins
     - Une session tri et proposition de solutions pour continuer en autonomie
-    - Session complète de 2h pour une pièce/atelier - 140€
-    - Session complète de 3h pour une pièce/atelier - 210€
-    - Session complète pour une pièce/atelier - 280€
+    - Session de 2h pour une pièce/atelier - 140€
+    - Session de 3h pour une pièce/atelier - 210€
+    - Session de 4h pour une pièce/atelier - 280€
   - name: Accompagnement et suivi
     price: Dès 60€/h
     content: Pour vos projets plus conséquents ; <i>home staging</i>, plusieurs pièces/catégories,
