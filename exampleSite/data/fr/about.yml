@@ -18,8 +18,7 @@ features:
   feature_item:
   - icon: ion-ios-mic-outline
     name: Écoute
-    content: L'écoute est au centre de mon travail, pour vous comprendre et vous faire
-      avancer à votre rythme
+    content: L'écoute est au centre de mon travail, pour former une équipe de qualité
   - icon: ion-ios-star-outline
     name: Qualité
     content: 'Je m''engage à m''investir et vous pousser </br>à obtenir le meilleur
