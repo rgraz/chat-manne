@@ -12,7 +12,7 @@ pricing:
     - Une visite d'environ 1h pour évaluer la situation lorsqu'il s'agit d'accompagnement
     - Une première heure d'action lorsqu'il s'agit d'une mission <i>one shot</i>
     - Un retour complet avec les solutions que je vous propose et un devis si nécessaire
-  - name: Mission ponctuelle <i>One shot</i>
+  - name: Mission ponctuelle - <i>One shot</i>
     price: 70€/h
     content: "Que ce soit pour trier un dressing, ranger une pièce ou organiser un
       atelier, je vous propose des aides ponctuelles sous forme de forfait. \nLes
@@ -35,5 +35,14 @@ pricing:
     - La visite diagnostique inclus
     - Des forfaits échelonnés de façon hebdomadaire ou mensuelle
     - Un tarif dégressif
+  - name: Bénévolat & Tarif réduit
+    price: 30€/h maximum
+    content: Si vous êtes étudiant-e, non imposable ou au RSA
+    link: ''
+    services:
+    - Un compte-rendu complet pour vous permettre d'avancer en autonomie
+    - Une visite diagnostic afin de déterminer le type de besoin ; <i>one shot</i>
+      ou forfait
+    - Un entretien téléphonique pour définir vos besoin - offert
 cta:
   enable: true
