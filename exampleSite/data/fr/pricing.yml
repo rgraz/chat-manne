@@ -3,13 +3,14 @@ pricing:
   enable: true
   pricing_table:
   - name: Diagnostic
-    price: 70€
+    price: 60€
     content: Une première rencontre pour évaluer vos besoins et discuter des meilleures
       solutions adaptées à votre cas particulier.
     link: "#"
     services:
-    - Un entretien téléphonique pour préparer une première visite
-    - Une visite d'environ 1h pour évaluer la situation
+    - Un entretien téléphonique pour préparer la visite
+    - Une visite d'environ 1h pour évaluer la situation lorsqu'il s'agit d'accompagnement
+    - Une première heure d'action lorsqu'il s'agit d'une mission <i>one shot</i>
     - Un retour complet avec les solutions que je vous propose et un devis si nécessaire
   - name: Mission ponctuelle
     price: Dès 70€/h
