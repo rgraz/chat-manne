@@ -12,12 +12,11 @@ pricing:
     - Une visite d'environ 1h pour évaluer la situation lorsqu'il s'agit d'accompagnement
     - Une première heure d'action lorsqu'il s'agit d'une mission <i>one shot</i>
     - Un retour complet avec les solutions que je vous propose et un devis si nécessaire
-  - name: Mission ponctuelle - <i>One shot</i>
+  - name: Mission ponctuelle - One shot
     price: 70€/h
     content: "Que ce soit pour trier un dressing, ranger une pièce ou organiser un
       atelier, je vous propose des aides ponctuelles sous forme de forfait. \nLes
-      besoins en temps seront fixés à partir d'un premier entretien téléphonique qui
-      me permettra d'adapter mon offre à vos besoins."
+      besoins en temps seront fixés à partir de l'entretien téléphonique."
     link: contact
     services:
     - Un entretien téléphonique pour définir vos besoins
