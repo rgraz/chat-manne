@@ -42,14 +42,14 @@ service:
     name: Boutique et atelier
     content: Vous êtes artisan et ressentez le besoin de réorganiser votre espace
       de travail
-  - icon: ion-earth
-    name: Déménagement
-    content: Source de stress bien connue, une bonne préparation permet de vivre cette
-      étape sereinement
   - icon: ion-compass
     name: Après le deuil
     content: Faire évoluer son espace de vie après un deuil est une étape difficile.
       Je suis là pour vous épauler
+  - icon: ion-earth
+    name: Déménagement
+    content: Source de stress bien connue, une bonne préparation permet de vivre cette
+      étape sereinement
   - icon: ion-bug
     name: Syllogomanie et Diogène
     content: Sensible à ces pathologies, j'accompagne votre proche pour lui permettre
