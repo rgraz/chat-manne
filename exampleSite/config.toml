@@ -184,14 +184,8 @@ preloader = ""
 [params.widgets]
 sidebar = ["recent_posts", "taxonomy_category", "taxonomy_tags"]
 [[params.social]]
-icon = "ion-social-googleplus-outline"
-link = "#"
-[[params.social]]
-icon = "ion-social-linkedin-outline"
-link = "#"
-[[params.social]]
 icon = "ion-social-pinterest-outline"
-link = "#"
+link = "https://www.pinterest.fr/marionclairhome/"
 [[params.social]]
 icon = "ion-social-dribbble-outline"
 link = "#"
