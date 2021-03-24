@@ -22,6 +22,10 @@ about:
     est essentiel pour vous de ce qui est superflu. Vous prenez confiance en votre
     instinct en même temps que vous reprenez le pouvoir sur votre intérieur.\n\n\n"
   image: "/images/trio.png"
+  button:
+    enable: true
+    link: blog
+    label: Lire le blog
 portfolio:
   enable: true
   bg_image: "/images/feuillesvase.jpg"
