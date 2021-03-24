@@ -34,7 +34,11 @@
               <li><a href="{{ .URL | relLangURL }}">{{ .Name }}</a></li>
               {{ end }}
               {{ end }}
-
+            <ul class="social-icons">
+              {{ range site.Params.social }}
+              <li><a href="{{ .link | safeURL }}"><i class="{{ .icon }}"></i></a></li>
+              {{ end }}
+            </ul>
               <!-- Language List -->
               {{- if site.IsMultiLingual }}
               <li>
