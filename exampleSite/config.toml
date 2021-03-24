@@ -7,7 +7,7 @@ paginate = "4"
 summaryLength = "30"
 theme = "airspace-hugo"
 themesDir = "../.."
-title = "Airspace | Creative Agency Hugo Template"
+title = "Marion Clair | Rangement"
 [Languages.en]
 contentDir = "content/english"
 copyright = "Copyright &copy; 2020 [Themefisher](https://themefisher.com) All Rights Reserved"
@@ -76,7 +76,7 @@ name = "Contact"
 weight = 6
 [Languages.fr]
 contentDir = "content/french"
-copyright = "Copyright &copy; 2020 [Themefisher](https://themefisher.com) All Rights Reserved"
+copyright = "Copyright &copy; 2020 [Themefisher](https://themefisher.com) Tous droits réservés"
 languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
@@ -127,7 +127,7 @@ home = ["HTML"]
 [params]
 author = "Marion Clair"
 contact_form_action = "#"
-description = "This is meta description"
+description = ""
 email = "demo@email.com"
 google_analitycs_id = ""
 location = "Lyon, France"
