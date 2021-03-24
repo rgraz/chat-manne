@@ -187,11 +187,5 @@ sidebar = ["recent_posts", "taxonomy_category", "taxonomy_tags"]
 icon = "ion-social-pinterest-outline"
 link = "https://www.pinterest.fr/marionclairhome/"
 [[params.social]]
-icon = "ion-social-dribbble-outline"
-link = "#"
-[[params.social]]
-icon = "ion-social-twitter-outline"
-link = "#"
-[[params.social]]
-icon = "ion-social-facebook-outline"
-link = "#"
+icon = "ion-social-instagram-outline"
+link = "https://www.instagram.com/marionclairhome/"
