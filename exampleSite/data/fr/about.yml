@@ -1,12 +1,13 @@
 ---
 about:
   enable: true
-  image: "/images/cercledefleurs.jpg"
+  image: ''
   title: Qui suis-je ?
-  content: |-
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius enim, accusantium repellat ex autem numquam iure officiis facere vitae itaque.
-
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam qui vel cupiditate exercitationem, ea fuga est velit nulla culpa modi quis iste tempora non, suscipit repellendus labore voluptatem dicta amet? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Provident, neque!
+  content: Lyonnaise d'adoption depuis huit ans, c'est en venant terminer mon master
+    universitaire que je me suis définitivement installée ici. Formée en histoire,
+    sociologie et psycho-sociologie, l'humain a toujours été au cœur des mes intérêts.
+    Mes compétences d'écoute et d'observation me permettent de vous accompagner en
+    toute bienveillance,
   button:
     enable: false
     label: Download Company Profile
