@@ -18,6 +18,7 @@ header{
 		.navbar-nav{
 			  padding-top: 10px;
 			li{
+			   
 			  a{
 			  	color: #333333;
 			  	padding: 10px 26px;
@@ -27,6 +28,9 @@ header{
 			  		color: #000;
 			  	}
 			  }
+			   a.socials{
+				font-size:20px;
+			   }
 			}
 		}
 	}
