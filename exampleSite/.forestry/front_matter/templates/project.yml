@@ -30,3 +30,6 @@ fields:
   - type: text
     name: info
     label: info
+pages:
+- exampleSite/content/french/project/chambre-adolescent.md
+- exampleSite/content/french/project/home-staging-chambre-rose.md
