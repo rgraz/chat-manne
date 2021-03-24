@@ -1,6 +1,6 @@
 +++
 bg_image = "/images/chambres.png"
-category = "Tri Rangement"
+category = "Rangement simple"
 description = ""
 image = "/images/chambres.png"
 title = "Rangement simple"
