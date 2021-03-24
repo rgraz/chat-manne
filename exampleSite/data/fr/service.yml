@@ -41,9 +41,9 @@ service:
     content: Vous allez vendre votre bien et avez besoin de le présenter sous son
       meilleur jour. L'harmonie est à portée de mains
   - icon: ion-leaf
-    name: Préparation à la vente
-    content: 'Vous allez vendre votre bien et avez besoin de le présenter sous son
-      meilleur jour '
+    name: Boutique et atelier
+    content: Vous êtes artisan et ressentez le besoin de réorganiser votre espace
+      de travail
   - icon: ion-earth
     name: Déménagement
     content: Source de stress bien connue, préparer son déménagement permet de vivre
