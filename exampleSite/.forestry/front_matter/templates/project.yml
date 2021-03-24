@@ -32,4 +32,5 @@ fields:
     label: info
 pages:
 - exampleSite/content/french/project/chambre-adolescent.md
+- exampleSite/content/french/project/home-staging-2.md
 - exampleSite/content/french/project/home-staging-chambre-rose.md
