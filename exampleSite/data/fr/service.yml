@@ -29,7 +29,7 @@ featured_service:
     content: Un deux trois quatre cinq six sept
 service:
   enable: true
-  title: Mes prestations
+  title: Mes services
   description: À chaque profil son projet personnalisé
   service_item:
   - icon: ion-coffee
