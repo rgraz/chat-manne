@@ -4,7 +4,7 @@ banner:
   bg_image: "/images/portesouvertes.jpg"
   bg_overlay: false
   title: Marion Clair <br/> Consultante en rangement
-  content: Accompagnement au changement à Lyon
+  content: <span style="color:#888">Accompagnement au changement à Lyon</span>
   button:
     enable: true
     label: Découvrez mes services
