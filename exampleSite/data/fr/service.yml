@@ -34,28 +34,26 @@ service:
   service_item:
   - icon: ion-coffee
     name: 'Retrouver la sérénité '
-    content: 'Par un concours de circonstances, votre maison est devenue hors de contrôle
-      et vous voulez y voir plus clair '
+    content: Si vous triez pour la première fois et ne savez pas comment vous y prendre
   - icon: ion-image
     name: Home Staging
-    content: Vous allez vendre votre bien et avez besoin de le présenter sous son
-      meilleur jour. L'harmonie est à portée de mains
+    content: Pour préparer votre bien à la vente ou retrouver l'harmonie
   - icon: ion-leaf
     name: Boutique et atelier
     content: Vous êtes artisan et ressentez le besoin de réorganiser votre espace
       de travail
   - icon: ion-earth
     name: Déménagement
-    content: Source de stress bien connue, préparer son déménagement permet de vivre
-      cette étape sereinement
+    content: Source de stress bien connue, une bonne préparation permet de vivre cette
+      étape sereinement
   - icon: ion-compass
     name: Après le deuil
-    content: Faire évoluer son espace de vie après un deuil est une étape difficile
-      à franchir. Je suis là pour vous épauler
+    content: Faire évoluer son espace de vie après un deuil est une étape difficile.
+      Je suis là pour vous épauler
   - icon: ion-bug
     name: Syllogomanie et Diogène
-    content: Sensible à ces pathologies, je saurais accompagner votre proche pour
-      lui permettre de retrouver un espace sain
+    content: Sensible à ces pathologies, j'accompagne votre proche pour lui permettre
+      de retrouver un espace sain
 cta:
   enable: false
 pricing:
