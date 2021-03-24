@@ -1,9 +1,9 @@
 ---
-title: Rio Furniture 6
+title: Chambres
 description: this is meta description
-image: "/images/inspi-6.jpg"
-bg_image: "/images/inspi-6.jpg"
-category: Salon
+image: "/images/chambres.png"
+bg_image: "/images/chambres.png"
+category: Chambre
 information:
 - label: Client
   info: Jannie Kelonsky
