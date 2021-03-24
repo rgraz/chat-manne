@@ -7,11 +7,11 @@ banner:
   content: Accompagnement au changement à Lyon
   button:
     enable: true
-    label: Découvrez mes prestations
+    label: Découvrez mes services
     link: service
 about:
   enable: true
-  title: 'Home organiser : trier <i>puis</i> ranger'
+  title: 'Home organiser : trier c''est déjà ranger'
   description: ''
   content: "Home organiser, coach ou consultante en rangement, experte KonMari...
     Autant de dénominations que de méthodes. \nParce qu'il est aisé de confondre la
