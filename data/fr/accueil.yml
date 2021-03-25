@@ -1,0 +1,41 @@
+---
+banniere:
+  enable: true
+  bg_image: "/images/portesouvertes.jpg"
+  bg_overlay: false
+  title: Marion Clair <br/> Consultante en rangement
+  content: <span style="color:#888">Accompagnement au changement à Lyon</span>
+  button:
+    enable: true
+    label: Découvrez mes services
+    link: service
+paragraphe1:
+  enable: true
+  title: 'Home organiser : trier est la meilleure organisation'
+  description: ''
+  content: "Home organiser, coach ou consultante en rangement, experte KonMari...
+    Autant de dénominations que de méthodes. \nParce qu'il est aisé de confondre la
+    notion de rangement avec celle d’organisation, faire appel à mes services vous
+    permet d’être accompagné-e dans la phase la plus difficile lorsque l’on veut reprendre
+    possession de son espace de vie : le tri.\nJe privilégie en effet le travail sur
+    le fond plutôt que sur la forme ; je suis là pour vous aider à distinguer ce qui
+    est essentiel pour vous de ce qui est superflu. Vous prenez confiance en votre
+    instinct en même temps que vous reprenez le pouvoir sur votre intérieur.\n\n\n"
+  image: "/images/trio.png"
+  button:
+    enable: true
+    link: blog
+    label: Lire le blog
+paragraphe2:
+  enable: true
+  bg_image: "/images/feuillesvase.jpg"
+  title: Écoute et bienveillance
+  content: "Plus que votre foyer, c’est <i>vous</i> qui êtes au cœur de mon travail.
+    \nJe m’adapte à vos besoins ; vous vous sentez autonomes et vous voulez simplement
+    des conseils et la motivation d’une coach ? Je réponds à cette envie ! Vous êtes
+    au contraire submergé-e et espérez l’accompagnement complet face au désencombrement
+    ? Je suis ravie de pouvoir vous guider !\n\n"
+  button:
+    enable: true
+    label: À propos de moi
+    link: about

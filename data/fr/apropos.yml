@@ -1,0 +1,30 @@
+---
+quisuisje:
+  enable: true
+  image: ''
+  title: Qui suis-je ?
+  content: Lyonnaise d'adoption depuis huit ans, c'est en venant terminer mon master
+    universitaire que je me suis définitivement installée ici. Formée en histoire,
+    sociologie et psycho-sociologie, l'humain a toujours été au cœur des mes intérêts.
+    Mes compétences d'écoute et d'observation me permettent de vous accompagner en
+    toute bienveillance,
+  button:
+    enable: false
+    label: Download Company Profile
+    link: "#"
+  funfacts: []
+valeurs:
+  enable: true
+  title: Mes valeurs
+  feature_item:
+  - icon: ion-ios-mic-outline
+    name: Écoute
+    content: L'écoute est au centre de mon travail, </br>pour former une équipe de
+      qualité
+  - icon: ion-ios-star-outline
+    name: Exigence
+    content: 'Je m''engage à m''investir et vous </br>pousser à obtenir le meilleur
+      résultat '
+  - icon: ion-ios-unlocked-outline
+    name: Confidentialité
+    content: Je travaille avec vous avec empathie et discrétion
