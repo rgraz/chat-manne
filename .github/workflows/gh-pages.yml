@@ -21,12 +21,11 @@ jobs:
           extended: true
 
       - name: Build
-        working-directory: airspace-hugo/msb89/
-        run: hugo --gc --themesDir ../..
+        run: hugo --gc --themesDir themes/
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./airspace/msb89/docs
+          publish_dir: ./docs
           
