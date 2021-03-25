@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-18.04
     steps:
       - name: Change Directory
-        cd exampleSite
+        run: cd exampleSite
         
       - uses: actions/checkout@v2
         with:
