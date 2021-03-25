@@ -53,6 +53,36 @@
 {{ end }}
 {{ end }}
 
+{{ if $data.accueil.pourquoi.enable }}
+{{ with $data.accueil.pourquoi }}
+<section class="pourquoi-table section bg-gray">
+  <div class="container">
+    <div class="row">
+      <div class="pourquoi-grostitle">
+        <h1>{{ .pourquoi_titre | markdownify }}</h1>
+      </div>
+      <!-- single pourquoi table -->
+      {{ range .pourquoi_table }}
+      <div class="col-md-4 col-sm-7 col-xs-8">
+        <div class="pourquoi-item text-center">
+          <div class="block">
+            <img src="{{ .bg_image | relURL }}" class="img-responsive" alt="Img">
+          </div>
+          <div class="pourquoi-title">
+            <h3>{{ .titre }}</h3>
+          </div>
+          <a class="btn btn-small" href="{{ .link | safeURL }}">En savoir +</a>
+        </div>
+      </div>
+      {{ end }}
+      <!-- end single pricing table -->
+    </div>
+  </div>
+</section>
+{{ end }}
+{{ end }}
+
+
 {{ if $data.accueil.paragraphe2.enable }}
 {{ with $data.accueil.paragraphe2 }}
 <!-- portfolio -->

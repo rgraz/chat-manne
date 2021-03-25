@@ -113,14 +113,18 @@ link = "plugins/shuffle/shuffle.min.js"
 [[params.plugins.js]]
 attributes = "defer"
 link = "plugins/google-map/gmap.js"
+[[params.plugins.js]]
+attributes = ""
+link = "https://unpkg.com/ionicons@5.4.0/dist/ionicons.js"
+
 [params.preloader]
 enable = true
 preloader = ""
 [params.widgets]
 sidebar = ["recent_posts", "taxonomy_category", "taxonomy_tags"]
 [[params.social]]
-icon = "ion-social-pinterest-outline"
+icon = "logo-pinterest"
 link = "https://www.pinterest.fr/marionclairhome/"
 [[params.social]]
-icon = "ion-social-instagram-outline"
+icon = "logo-instagram"
 link = "https://www.instagram.com/marionclairhome/"
