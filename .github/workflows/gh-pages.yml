@@ -21,12 +21,11 @@ jobs:
           extended: true
 
       - name: Build
-        working-directory: ./exampleSite
-        run: hugo --minify --gc --themesDir ../Themes/
+        run: hugo --minify --gc --themesDir Themes/
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./exampleSite
+          publish_dir: ./public
           
