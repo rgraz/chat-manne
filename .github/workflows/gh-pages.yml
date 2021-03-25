@@ -24,8 +24,8 @@ jobs:
         run: hugo --gc --themesDir ../..
 
       - name: Deploy
-        working-directory: ./exampleSite
         uses: peaceiris/actions-gh-pages@v3
+        working-directory: ./exampleSite
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
