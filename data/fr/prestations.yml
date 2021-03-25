@@ -11,7 +11,9 @@ intro:
     plan d’action lorsque vous avez besoin d’un accompagnement suivi, ou bien que
     l’on passe à l’action si c’est pour une mission ponctuelle."
   image: images/cartonblanc.jpg
-featured_service:
+
+
+tripleatouts:
   enable: false
   service_item:
   - name: Adaptabilité
