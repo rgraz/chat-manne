@@ -1,0 +1,97 @@
+---
+banner:
+  enable: true
+  bg_image: "/images/portesouvertes.jpg"
+  bg_overlay: false
+  title: Marion Clair <br/> Consultante en rangement
+  content: <span style="color:#888">Accompagnement au changement à Lyon</span>
+  button:
+    enable: true
+    label: Découvrez mes services
+    link: service
+about:
+  enable: true
+  title: 'Home organiser : trier est la meilleure organisation'
+  description: ''
+  content: "Home organiser, coach ou consultante en rangement, experte KonMari...
+    Autant de dénominations que de méthodes. \nParce qu'il est aisé de confondre la
+    notion de rangement avec celle d’organisation, faire appel à mes services vous
+    permet d’être accompagné-e dans la phase la plus difficile lorsque l’on veut reprendre
+    possession de son espace de vie : le tri.\nJe privilégie en effet le travail sur
+    le fond plutôt que sur la forme ; je suis là pour vous aider à distinguer ce qui
+    est essentiel pour vous de ce qui est superflu. Vous prenez confiance en votre
+    instinct en même temps que vous reprenez le pouvoir sur votre intérieur.\n\n\n"
+  image: "/images/trio.png"
+  button:
+    enable: true
+    link: blog
+    label: Lire le blog
+portfolio:
+  enable: true
+  bg_image: "/images/feuillesvase.jpg"
+  title: Écoute et bienveillance
+  content: "Plus que votre foyer, c’est <i>vous</i> qui êtes au cœur de mon travail.
+    \nJe m’adapte à vos besoins ; vous vous sentez autonomes et vous voulez simplement
+    des conseils et la motivation d’une coach ? Je réponds à cette envie ! Vous êtes
+    au contraire submergé-e et espérez l’accompagnement complet face au désencombrement
+    ? Je suis ravie de pouvoir vous guider !\n\n"
+  button:
+    enable: true
+    label: À propos de moi
+    link: about
+service:
+  enable: false
+  title: Mes prestations
+  description: ''
+  service_item:
+  - name: Test1
+    content: moi
+cta:
+  enable: false
+  bg_image: images/call-to-action-bg.jpg
+  title: We design delightful digital experiences.
+  content: Read more about what we do and our philosophy of design. Judge for yourself
+    The work and results <br> we’ve achieved for other clients, and meet our highly
+    experienced Team who just love to design.
+  button:
+    enable: true
+    label: Tell Us Your Story
+    link: contact
+funfacts:
+  enable: false
+  title: Fun Facts About Us
+  description: "'Far far away, behind the word mountains, far from the countries Vokalia
+    and Consonantia, <br> there live the blind texts. Separated they live in Bookmarksgrove
+    right at the coast of the Semantics'"
+  funfact_item:
+  - icon: ion-ios-chatboxes-outline
+    name: Cups Of Coffee
+    count: "99"
+  - icon: ion-ios-glasses-outline
+    name: Article Written
+    count: "45"
+  - icon: ion-ios-compose-outline
+    name: Projects Completed
+    count: "125"
+  - icon: ion-ios-timer-outline
+    name: Combined Projects
+    count: "200"
+  testimonial_slider:
+  - name: Raymond Roy
+    image: images/clients/avater-1.jpg
+    designation: CEO-Themefisher
+    content: This Company created an e-commerce site with the tools to make our business
+      a success, with innovative ideas we feel that our site has unique elements that
+      make us stand out from the crowd.
+  - name: Randi Renin
+    image: images/clients/avater-1.jpg
+    designation: CEO-Themefisher
+    content: This Company created an e-commerce site with the tools to make our business
+      a success, with innovative ideas we feel that our site has unique elements that
+      make us stand out from the crowd.
+  - name: Rose Rio
+    image: images/clients/avater-3.jpg
+    designation: CEO-Themefisher
+    content: This Company created an e-commerce site with the tools to make our business
+      a success, with innovative ideas we feel that our site has unique elements that
+      make us stand out from the crowd.
