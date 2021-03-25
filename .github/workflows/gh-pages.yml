@@ -21,6 +21,7 @@ jobs:
           extended: true
 
       - name: Build
+        working-directory: msb89/
         run: hugo # --gc --themesDir Themes/
 
       - name: Deploy
