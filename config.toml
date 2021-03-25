@@ -9,72 +9,6 @@ theme = "airspace-hugo"
 themesDir = "themes/"
 publishDir = "docs/"
 title = "Marion Clair | Consultante en rangement"
-[Languages.en]
-contentDir = "content/english"
-copyright = "Copyright &copy; 2020 [Themefisher](https://themefisher.com) All Rights Reserved"
-languageCode = "en-us"
-languageName = ""
-weight = 1
-[[Languages.en.menu.footer]]
-URL = "about"
-name = "About"
-weight = 1
-[[Languages.en.menu.footer]]
-URL = "project"
-name = "Project"
-weight = 2
-[[Languages.en.menu.footer]]
-URL = "service"
-name = "Service"
-weight = 3
-[[Languages.en.menu.footer]]
-URL = "pricing"
-name = "Pricing"
-weight = 4
-[[Languages.en.menu.footer]]
-URL = "faq"
-name = "FAQ"
-weight = 5
-[[Languages.en.menu.footer]]
-URL = "contact"
-name = "Contact"
-weight = 6
-[[Languages.en.menu.main]]
-URL = "/"
-name = "Home"
-weight = 1
-[[Languages.en.menu.main]]
-URL = "about"
-name = "About"
-weight = 2
-[[Languages.en.menu.main]]
-URL = "project"
-name = "Project"
-weight = 3
-[[Languages.en.menu.main]]
-URL = "blog"
-name = "Blog"
-weight = 4
-[[Languages.en.menu.main]]
-hasChildren = true
-name = "Pages"
-weight = 5
-[[Languages.en.menu.main]]
-URL = "faq"
-name = "FAQ"
-parent = "Pages"
-[[Languages.en.menu.main]]
-URL = "pricing"
-name = "Pricing"
-parent = "Pages"
-[[Languages.en.menu.main]]
-URL = "service"
-name = "Service"
-parent = "Pages"
-[[Languages.en.menu.main]]
-URL = "contact"
-name = "Contact"
-weight = 6
 [Languages.fr]
 contentDir = "content/french"
 copyright = "Copyright &copy; 2020 [Themefisher](https://themefisher.com) Tous droits réservés"
@@ -82,15 +16,15 @@ languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
 [[Languages.fr.menu.footer]]
-URL = "about"
+URL = "apropos"
 name = "À propos"
 weight = 1
 [[Languages.fr.menu.footer]]
-URL = "project"
+URL = "galerie"
 name = "Galerie"
 weight = "2"
 [[Languages.fr.menu.footer]]
-URL = "service"
+URL = "prestations"
 name = "Prestations"
 weight = 3
 [[Languages.fr.menu.footer]]
@@ -102,15 +36,15 @@ URL = "/"
 name = "Accueil"
 weight = 1
 [[Languages.fr.menu.main]]
-URL = "about"
+URL = "apropos"
 name = "À propos"
 weight = 2
 [[Languages.fr.menu.main]]
-URL = "project"
+URL = "galerie"
 name = "Galerie"
 weight = 3
 [[Languages.fr.menu.main]]
-URL = "service"
+URL = "prestations"
 name = "Prestations"
 weight = "5"
 [[Languages.fr.menu.main]]
