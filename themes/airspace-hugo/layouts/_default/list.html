@@ -17,13 +17,14 @@
           <h3 class="post-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
           <div class="post-meta">
             <ul>
-              <li><i class="ion-calendar"></i> {{ .PublishDate.Format "January 2, 2006" }}</li>
+              <li><i class="ion-calendar"></i> {{ .PublishDate.Day }} {{ index $.Site.Data.fr.mois (printf "%d" .Lastmod.Month) }} {{ .PublishDate.Year }}</li>
               <li><i class="ion-android-people"></i>
                 {{ i18n "posted_by" }}
                 {{if site.Params.multi_author}}
                 {{ range $index, $elements:= .Params.Author }}{{ if ne $index 0 }}, {{ end }}<a class="text-primary" href="{{ `author/` | relLangURL }}{{ . | urlize }}">{{ . }}</a>{{ end }}
                 {{else}}
-                <a class="text-primary" href="{{ `author/` | relLangURL }}{{ .Params.Author | urlize }}">{{ .Params.Author }}</a>
+                <!--<a class="text-primary" href="{{ `author/` | relLangURL }}{{ .Params.Author | urlize }}">{{ .Params.Author }}</a>-->
+                {{ .Params.Author }}
                 {{end}}
               </li>
               <li><i class="ion-pricetags"></i> 
