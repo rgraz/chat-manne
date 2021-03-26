@@ -1,5 +1,5 @@
 +++
-bg_image = "/images/aavolnaysalon.jpg"
+bg_image = "/images/fondgalerie.jpg"
 category = "Home staging"
 description = ""
 image = "/images/aavolnaysalon.jpg"
