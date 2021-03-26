@@ -221,6 +221,10 @@ input[type="tel"] {
   background: $primary-color;
 }
 
+.bg-primary-light {
+  background: lighten($primary-color,36%);
+}
+
 .bg-primary-dark {
   background: darken($primary-color, 10%);
 }

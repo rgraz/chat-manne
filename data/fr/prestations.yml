@@ -33,25 +33,31 @@ services:
   description: La personnalisation est la clé d'un résultat exceptionnel
   service_item:
   - icon: home-outline
+    iconhover: home
     name: 'Être bien chez soi '
     content: Si vous triez pour la première fois et </br>ne savez pas comment vous
       y prendre
   - icon: image-outline
+    iconhover: image
     name: Home Staging
     content: Pour préparer votre bien à la vente </br>ou retrouver l'harmonie
   - icon: storefront-outline
+    iconhover: storefront
     name: Boutique et atelier
     content: Vous êtes artisan et avez besoin de </br>réorganiser votre espace de
       travail
   - icon: compass-outline
+    iconhover: compass
     name: Après le deuil
     content: Faire évoluer son espace de vie après un deuil est une étape difficile.
       Je suis là pour vous épauler
   - icon: cube-outline
+    iconhover: cube
     name: Déménagement
     content: Source de stress bien connue, une bonne préparation permet de vivre cette
       étape sereinement
   - icon: leaf-outline
+    iconhover: leaf
     name: Syllogomanie et Diogène
     content: Sensible à ces pathologies, j'accompagne votre proche pour lui permettre
       de retrouver un espace sain
