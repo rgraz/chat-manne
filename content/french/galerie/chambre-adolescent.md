@@ -1,5 +1,5 @@
 +++
-bg_image = "/images/chambres.png"
+bg_image = "/images/fondgalerie.png"
 category = "Rangement simple"
 description = ""
 image = "/images/chambres.png"
