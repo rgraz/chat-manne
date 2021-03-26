@@ -11,8 +11,6 @@ intro:
     plan d’action lorsque vous avez besoin d’un accompagnement suivi, ou bien que
     l’on passe à l’action si c’est pour une mission ponctuelle."
   image: images/cartonblanc.jpg
-
-
 tripleatouts:
   enable: false
   service_item:
@@ -29,22 +27,22 @@ tripleatouts:
     icon: ion-lightbulb
     color: primary-darker
     content: Un deux trois quatre cinq six sept
-    
 services:
   enable: true
   title: Un service adapté à votre situation
-  description: parce que nous ne somme pas tous égaux devant le désordre
+  description: La personnalisation est la clé d'un résultat exceptionnel
   service_item:
   - icon: home-outline
     name: 'Être bien chez soi '
-    content: Si vous triez pour la première fois et ne savez pas comment vous y prendre
+    content: Si vous triez pour la première fois et </br>ne savez pas comment vous
+      y prendre
   - icon: image-outline
     name: Home Staging
-    content: Pour préparer votre bien à la vente ou retrouver l'harmonie
+    content: Pour préparer votre bien à la vente </br>ou retrouver l'harmonie
   - icon: build-outline
     name: Boutique et atelier
-    content: Vous êtes artisan et ressentez le besoin de réorganiser votre espace
-      de travail
+    content: Vous êtes artisan et avez besoin de </br>réorganiser votre espace de
+      travail
   - icon: compass-outline
     name: Après le deuil
     content: Faire évoluer son espace de vie après un deuil est une étape difficile.
@@ -57,7 +55,6 @@ services:
     name: Syllogomanie et Diogène
     content: Sensible à ces pathologies, j'accompagne votre proche pour lui permettre
       de retrouver un espace sain
-      
 prix:
   enable: true
   pricing_table:
@@ -103,4 +100,3 @@ prix:
       ou forfait
     - La mission <i>one shot</i> ou le forfait de 3h - 90€ maximum selon profil
     - Un compte-rendu complet pour vous permettre d'avancer en autonomie
-
