@@ -39,7 +39,7 @@ services:
   - icon: image-outline
     name: Home Staging
     content: Pour préparer votre bien à la vente </br>ou retrouver l'harmonie
-  - icon: build-outline
+  - icon: storefront-outline
     name: Boutique et atelier
     content: Vous êtes artisan et avez besoin de </br>réorganiser votre espace de
       travail
