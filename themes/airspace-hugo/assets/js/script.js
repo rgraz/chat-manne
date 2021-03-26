@@ -1,11 +1,15 @@
 // Preloader js    
 $(window).on('load', function () {
 	$('.preloader').fadeOut(100);
+    wow = new WOW(
+        {animateClass: 'animate__animated'}
+    );
+    wow.init()
+    
 });
 
 $(document).ready(function () {
 	'use strict';
-
 	// Shuffle js filter and masonry
 	var containerEl = document.querySelector('.shuffle-wrapper');
 	if (containerEl) {
@@ -94,5 +98,4 @@ $(document).ready(function () {
 	$(window).on('scroll', function () {
 		counter();
 	});
-
 });

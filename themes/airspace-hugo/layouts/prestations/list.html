@@ -4,6 +4,37 @@
 
 {{ $data := index site.Data site.Language.Lang }}
 
+
+{{ with $data.prestations.services }}
+<section class="service">
+  <div class="container">
+    <div class="row">
+      <div class="section-title">
+        <h2>{{ .title | markdownify }}</h2>
+        <p>{{ .description | markdownify }}</p>
+      </div>
+    </div>
+    <div class="row">
+      {{ $.Scratch.Set "counter" 0 }}
+      {{ range .service_item }}
+      {{ $.Scratch.Set "counter" (add ($.Scratch.Get "counter") 1) }}
+      <div class="col-sm-6 col-md-4">
+        <div class="service-item">
+          {{ $time := 5 }}
+          {{ $num := (mul $time ($.Scratch.Get "counter")) }}
+          
+            <ion-icon name="{{ .icon }}"></ion-icon>
+        <h4>{{ .name | markdownify }} {{$num}}</h4>
+          <p>{{ .content | markdownify }}</p>
+        </div>
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</section>
+{{ end }}
+
+
 {{ if $data.prestations.intro.enable }}
 {{ with $data.prestations.intro }}
 <section class="service-about section">
@@ -52,30 +83,6 @@
   </div>
 </section>
 {{ end }}
-{{ end }}
-
-{{ with $data.prestations.services }}
-<section class="service">
-  <div class="container">
-    <div class="row">
-      <div class="section-title">
-        <h2>{{ .title | markdownify }}</h2>
-        <p>{{ .description | markdownify }}</p>
-      </div>
-    </div>
-    <div class="row">
-      {{ range .service_item }}
-      <div class="col-sm-6 col-md-4">
-        <div class="service-item">
-          <i class="icon {{ .icon }}"></i>
-          <h4>{{ .name | markdownify }}</h4>
-          <p>{{ .content | markdownify }}</p>
-        </div>
-      </div>
-      {{ end }}
-    </div>
-  </div>
-</section>
 {{ end }}
 
 

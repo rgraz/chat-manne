@@ -8,7 +8,7 @@ banniere:
   button:
     enable: true
     label: Découvrez mes services
-    link: service
+    link: prestations
 paragraphe1:
   enable: true
   title: 'Home organiser : trier est la meilleure organisation'
