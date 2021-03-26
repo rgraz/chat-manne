@@ -23,13 +23,16 @@ valeurs:
   enable: true
   title: Mes valeurs
   feature_item:
-  - icon: ion-ios-mic-outline
+  - icon: git-network-outline
+    iconhover: git-network
     name: Écoute
     content: Je suis attentive à vos besoins, </br>pour former une équipe de qualité
-  - icon: ion-ios-star-outline
+  - icon: sparkles-outline
+    iconhover: sparkles
     name: Exigence
     content: 'Je m''engage à m''investir et vous </br>pousser à obtenir le meilleur
       résultat '
-  - icon: ion-ios-unlocked-outline
+  - icon: document-lock-outline
+    iconhover: document-lock
     name: Confidentialité
     content: Je travaille avec vous avec empathie et discrétion

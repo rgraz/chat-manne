@@ -27,11 +27,17 @@
 }
 
 .dark-service {
-  padding: 50px 0;
-  
+  padding: 10px 0;
+  margin-top:-50px;
   
   .title {
-    color: $light;
+      color: $light;
+    h2 {
+        font-weight:500;
+        letter-spacing: 2px;
+        word-spacing:5px;
+        font-size:22px;
+    }
   }
   
 
@@ -39,24 +45,44 @@
     padding-bottom: 30px;
     text-align: center;
 
-    i {
-      font-size: 60px;
+    ion-icon {
+        font-size: 50px;
+        padding-top:10px;
+        padding-bottom:10px;
       color: $light;
+    }
+    
+    ion-icon.visible{
+        display:inline-block;
+    }
+    ion-icon.hover{
+        display: none;
     }
 
     h4 {
       color: $light;
-      padding-top: 15px;
+      padding-top: 25px;
       margin: 0;
       font-weight: 500;
       text-transform: uppercase;
     }
 
     p {
-      padding-top: 10px;
+      padding-top: 15px;
       margin: 0;
-      color: $lightgrey;
+      color: $light;
     }
+
+
+  }
+
+  .service-item:hover{
+      ion-icon.hover{
+          display:inline-block;
+      }
+      ion-icon.visible{
+          display:none;
+      }
   }
 }
 

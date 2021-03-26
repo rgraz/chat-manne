@@ -57,7 +57,9 @@
       {{ range .feature_item }}
       <div class="col-md-4">
         <div class="service-item">
-          <i class="{{ .icon }}"></i>
+          
+          <ion-icon name="{{ .icon }}" class='visible'></ion-icon>
+          <ion-icon name="{{ .iconhover }}" class='hover'></ion-icon>
           <h4>{{ .name | markdownify }}</h4>
           <p>{{ .content | markdownify }}</p>
         </div>

@@ -24,7 +24,7 @@
           {{ $num := (mul $time ($.Scratch.Get "counter")) }}
           
             <ion-icon name="{{ .icon }}"></ion-icon>
-        <h4>{{ .name | markdownify }} {{$num}}</h4>
+        <h4>{{ .name | markdownify }}</h4>
           <p>{{ .content | markdownify }}</p>
         </div>
       </div>
