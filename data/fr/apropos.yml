@@ -23,8 +23,8 @@ valeurs:
   enable: true
   title: Mes valeurs
   feature_item:
-  - icon: git-network-outline
-    iconhover: git-network
+  - icon: chatbubbles-outline
+    iconhover: chatbubbles
     name: Écoute
     content: Je suis attentive à vos besoins, </br>pour former une équipe de qualité
   - icon: sparkles-outline
