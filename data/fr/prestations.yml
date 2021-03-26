@@ -10,7 +10,7 @@ intro:
     \n\nC’est lors de ce rendez-vous diagnostic que l’on confirme et construit un
     plan d’action lorsque vous avez besoin d’un accompagnement suivi, ou bien que
     l’on passe à l’action si c’est pour une mission ponctuelle."
-  image: images/cartonblanc.jpg
+  image: images/cartonblanc.png
 tripleatouts:
   enable: false
   service_item:
