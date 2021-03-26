@@ -1,6 +1,6 @@
 +++
 bg_image = "/images/fondgalerie.jpg"
-category = "Home Staging"
+category = "Home staging"
 description = ""
 image = "/images/aavolnaychambrerose.jpg"
 title = "Home staging 1"
