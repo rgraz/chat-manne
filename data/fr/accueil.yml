@@ -44,7 +44,7 @@ paragraphe2:
 
 pourquoi:
   enable: true
-  pourquoi_titre: Pourquoi faire appel à moi ?
+  pourquoi_titre: Une Home Organizer, pourquoi?
   pourquoi_table:
   - titre: Acquérir des méthodes de rangement et d'organisation efficaces
     bg_image: "/images/puzzle.jpg"
