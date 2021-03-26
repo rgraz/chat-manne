@@ -26,7 +26,6 @@ paragraphe1:
     enable: true
     link: blog
     label: Lire le blog
-    
 paragraphe2:
   enable: true
   bg_image: "/images/feuillesvase.jpg"
@@ -40,8 +39,6 @@ paragraphe2:
     enable: true
     label: À propos de moi
     link: about
-
-
 pourquoi:
   enable: true
   pourquoi_titre: Une Home Organizer, pourquoi?
@@ -49,11 +46,10 @@ pourquoi:
   - titre: Acquérir des méthodes de rangement et d'organisation efficaces
     bg_image: "/images/puzzle.jpg"
     link: prestations
-  - titre: Des solutions adaptées pour un résultat plus durable qu'un simple rangement ponctuel
+  - titre: Adapter les solutions pour un résultat plus durable qu'un simple rangement
+      ponctuel
     bg_image: "/images/bureaublanc.jpg"
     link: prestations
   - titre: Un soutien et un accompagnement personnalisés pour vos différents projets
     bg_image: "/images/boussole.jpg"
     link: prestations
-    
-
