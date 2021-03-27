@@ -34,12 +34,12 @@ paragraphe2:
   enable: true
   bg_image: "/images/feuillesvase.jpg"
   title: Écoute et bienveillance
-  content: " Plus que votre foyer, c’est vous qui êtes au cœur de mon travail. Sociologue
+  content: 'Plus que votre foyer, c’est vous qui êtes au cœur de mon travail. Sociologue
     de formation, le métier de home organiser requiert les mêmes compétences de prise
     de recul, capacité d’observation et de retranscription des idées. Communiquer
     et instaurer un espace de confiance entre nous est essentielle à mes yeux. Au-delà
-    d’un rangement idéal, ma priorité absolue est que vous sortiez enrichie de cette
-    expérience ! "
+    d’un rangement idéal, ma priorité est que vous sortiez enrichie de cette expérience
+    ! '
   button:
     enable: true
     label: À propos de moi
