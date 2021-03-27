@@ -30,7 +30,7 @@ tripleatouts:
 services:
   enable: true
   title: Un service adapté à votre situation
-  description: La personnalisation est la clé d'un résultat exceptionnel
+  description: ''
   service_item:
   - icon: home-outline
     iconhover: home

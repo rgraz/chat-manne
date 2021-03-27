@@ -13,15 +13,18 @@ banniere:
     link: prestations
 paragraphe1:
   enable: true
-  title: 'Pour vous aider à retrouver un espace rangé et organisé'
+  title: Pour vous aider à retrouver un espace rangé et organisé
   description: ''
-  content: "Il est aisé de confondre la notion d’organisation avec celle de rangement. La première n’implique que du déplacement, là où la seconde nécessite un travail de fond : le tri. <br/><br/>Grâce à mes services, vous serez accompagnée dans votre processus de rangement. Je suis là pour vous aider à distinguer ce qui est essentiel pour vous de ce qui est superflu.
-Lorsque vous maîtriserez l’art du rangement, l’organisation est ensuite un jeu d’enfant.
-Vous prenez confiance en votre instinct en même temps que vous reprenez le pouvoir sur votre intérieur.</br></br>
-Home organiser, coach ou consultante en rangement et désencombrement, experte KonMari… Autant de dénominations que d’approches. Apte à appliquer les différentes méthodes, la clé réside selon moi dans la personnalisation des outils.
-
-
-"
+  content: "Il est aisé de confondre la notion d’organisation avec celle de rangement.
+    La première n’implique que du déplacement, là où la seconde nécessite un travail
+    de fond : le tri. <br/><br/>Grâce à mes services, vous serez accompagnée dans
+    votre processus de rangement. Je suis là pour vous aider à distinguer ce qui est
+    essentiel pour vous de ce qui est superflu. Lorsque vous maîtriserez l’art du
+    rangement, l’organisation est ensuite un jeu d’enfant. Vous prenez confiance en
+    votre instinct en même temps que vous reprenez le pouvoir sur votre intérieur.</br></br>
+    Home organiser, coach ou consultante en rangement et désencombrement, experte
+    KonMari… Autant de dénominations que d’approches. Apte à appliquer les différentes
+    méthodes, la clé réside selon moi dans la personnalisation des outils.\n\n"
   image: "/images/trio.png"
   button:
     enable: true
@@ -31,22 +34,24 @@ paragraphe2:
   enable: true
   bg_image: "/images/feuillesvase.jpg"
   title: Écoute et bienveillance
-  content: "
-  Plus que votre foyer, c’est vous qui êtes au cœur de mon travail. Sociologue de formation, le métier de home organiser requiert les mêmes compétences de prise de recul, capacité d’observation et de retranscription des idées. Communiquer et instaurer un espace de confiance entre nous est essentielle à mes yeux. Au-delà d’un rangement idéal, ma priorité absolue est que vous sortiez enrichie de cette expérience !
-"
+  content: 'Plus que votre foyer, c’est vous qui êtes au cœur de mon travail. Sociologue
+    de formation, le métier de home organiser requiert les mêmes compétences de prise
+    de recul, capacité d’observation et de retranscription des idées. Communiquer
+    et instaurer un espace de confiance entre nous est essentielle à mes yeux. Au-delà
+    d’un rangement idéal, ma priorité est que vous sortiez enrichie de cette expérience
+    ! '
   button:
     enable: true
     label: À propos de moi
     link: apropos
 pourquoi:
   enable: true
-  pourquoi_titre: Une Home Organizer, pourquoi?
+  pourquoi_titre: Une Home Organiser, pourquoi?
   pourquoi_table:
   - titre: Acquérir des méthodes de rangement et d'organisation efficaces
     bg_image: "/images/puzzle.jpg"
     link: prestations
   - titre: Adapter les solutions pour un résultat plus durable qu'un simple rangement
-      ponctuel
     bg_image: "/images/bureaublanc.jpg"
     link: prestations
   - titre: " Vous accompagner de façon personnalisée pour vos différents projets"
