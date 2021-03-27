@@ -27,6 +27,28 @@
       padding-bottom: 15px;
       text-transform: uppercase;
     }
+    h1b {
+        //font-weight: 100;
+        font-family: $marionclair-font;
+        display:block;
+      font-weight: 300;
+      color: darken($primary-color,20%);
+      font-size: 45px;
+      line-height: 60px;
+      letter-spacing: 10px;
+      padding-bottom: 0px;
+      text-transform: uppercase;
+    }
+    h1t {
+      //font-weight: 100;
+      font-weight: 300;
+      color: $primary-color;
+      font-size: 35px;
+      line-height: 60px;
+      letter-spacing: 5px;
+      padding-bottom: 15px;
+      text-transform: uppercase;
+    }
 
     p {
       margin-bottom: 30px;

@@ -4,6 +4,8 @@ banniere:
   bg_image: "/images/portesouvertes.jpg"
   bg_overlay: false
   title: Marion Clair <br/> Consultante en rangement
+  titre: Marion Clair
+  soustitre: Consultante en rangement
   content: <span style="color:#888">Accompagnement au changement à Lyon</span>
   button:
     enable: true

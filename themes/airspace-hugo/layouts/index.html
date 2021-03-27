@@ -10,7 +10,9 @@
     <div class="row">
       <div class="col-md-12">
         <div class="block">
-          <h1>{{ .title | markdownify }}</h1>
+          <!--<h1>{{ .title | markdownify }}</h1>-->
+          <h1b>{{ .titre | markdownify }}</h1b>
+          <h1t>{{ .soustitre | markdownify }}</h1t>
           <p>{{ .content | markdownify }}</p>
           {{ if .button.enable }}
           {{ with .button }}
