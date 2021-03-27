@@ -62,15 +62,15 @@ mission_vision:
   tabs:
   - name: Publications
     content: |
-      Fields Millburn Joshua & Nicodemus Ryan, <i>Everything That Remains</i>, <i>Love People, Use Things, The Opposite Never Works</i>
-      Fortin Cary & Quilici Kyle, <i>New Minimalism</i>
-      Harris Dan, <i>10% Happier</i>
-      Kondo Marie, <i>La magie du rangement, <i>Ranger : l’étincelle du bonheur</i>
-      Loreau Dominique, <i>L'art de la simplicité, simplifier sa vie, c'est l'enrichir</i>, <i>L'art de l'essentiel</i>
-      Newton Anna, <i>An Edited Life</i>
-      Rhone Patrick, <i>Enough</i>
-      Sasaki Fumio, <i>L’essentiel, et rien d’autre</i>
-      Yamashita Hideko, <i>Dan-sha-ri ; l’art du rangement</i>
+      Fields Millburn Joshua & Nicodemus Ryan, <i>Everything That Remains</i>, <i>Love People, Use Things, The Opposite Never Works</i></br>
+      Fortin Cary & Quilici Kyle, <i>New Minimalism</i></br>
+      Harris Dan, <i>10% Happier</i></br>
+      Kondo Marie, <i>La magie du rangement, <i>Ranger : l’étincelle du bonheur</i></br>
+      Loreau Dominique, <i>L'art de la simplicité, simplifier sa vie, c'est l'enrichir</i>, <i>L'art de l'essentiel</i></br>
+      Newton Anna, <i>An Edited Life</i></br>
+      Rhone Patrick, <i>Enough</i></br>
+      Sasaki Fumio, <i>L’essentiel, et rien d’autre</i></br>
+      Yamashita Hideko, <i>Dan-sha-ri ; l’art du rangement</i></br>
   - name: Mission
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore nobis
       ducimus facere repellat harum, eius cupiditate, aliquam aut deserunt. Nemo illo
