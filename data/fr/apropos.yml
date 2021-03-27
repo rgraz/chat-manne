@@ -36,61 +36,60 @@ valeurs:
     iconhover: document-lock
     name: Confidentialité
     content: Je travaille avec vous avec empathie et discrétion
-
-
 testimonial:
-  enable : true
-  # testimonial content comes from "data/*/homepage.yml" file
+  enable: true
   testimonial_slider:
-  - name: "Raymond Roy"
-    image: "images/clients/avater-1.jpg"
-    designation: "CEO-Themefisher"
-    content: "This Company created an e-commerce site with the tools to make our business a success, with innovative ideas we feel that our site has unique elements that make us stand out from the crowd."
-              
-  # testimonial item loop
-  - name: "Randi Renin"
-    image: "images/clients/avater-1.jpg"
-    designation: "CEO-Themefisher"
-    content: "This Company created an e-commerce site with the tools to make our business a success, with innovative ideas we feel that our site has unique elements that make us stand out from the crowd."
-              
-  # testimonial item loop
-  - name: "Rose Rio"
-    image: "images/clients/avater-3.jpg"
-    designation: "CEO-Themefisher"
-    content: "This Company created an e-commerce site with the tools to make our business a success, with innovative ideas we feel that our site has unique elements that make us stand out from the crowd."
-
+  - name: Raymond Roy
+    image: images/clients/avater-1.jpg
+    designation: CEO-Themefisher
+    content: This Company created an e-commerce site with the tools to make our business
+      a success, with innovative ideas we feel that our site has unique elements that
+      make us stand out from the crowd.
+  - name: Randi Renin
+    image: images/clients/avater-1.jpg
+    designation: CEO-Themefisher
+    content: This Company created an e-commerce site with the tools to make our business
+      a success, with innovative ideas we feel that our site has unique elements that
+      make us stand out from the crowd.
+  - name: Rose Rio
+    image: images/clients/avater-3.jpg
+    designation: CEO-Themefisher
+    content: This Company created an e-commerce site with the tools to make our business
+      a success, with innovative ideas we feel that our site has unique elements that
+      make us stand out from the crowd.
 mission_vision:
-  enable : true
+  enable: true
   tabs:
-  # tab item loop
-  - name : "Vision"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore nobis ducimus facere repellat
-    harum, eius cupiditate, aliquam aut deserunt. Nemo illo ex impedit autem quod nobis architecto, velit
-    quasi, aut voluptas porro natus. Fuga magnam perspiciatis fugit, placeat possimus officia non ducimus
-    voluptatum aspernatur ad quidem neque accusantium repudiandae cupiditate nobis corporis, cum facere
-    iusto, modi cumque consectetur saepe. Officia, molestiae tempore! Consequatur ipsa consequuntur saepe
-    suscipit vero laudantium, mollitia, quaerat soluta nihil non tempore, quos dignissimos quasi ab officiis
-    illum numquam quibusdam ducimus, veritatis ad. Quia, aliquid. Quaerat quos ducimus ipsam amet minus
-    temporibus eos sequi alias hic nemo."
-    
-  # tab item loop
-  - name : "Mission"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore nobis ducimus facere repellat
-    harum, eius cupiditate, aliquam aut deserunt. Nemo illo ex impedit autem quod nobis architecto, velit
-    quasi, aut voluptas porro natus. Fuga magnam perspiciatis fugit, placeat possimus officia non ducimus
-    voluptatum aspernatur ad quidem neque accusantium repudiandae cupiditate nobis corporis, cum facere
-    iusto, modi cumque consectetur saepe. Officia, molestiae tempore! Consequatur ipsa consequuntur saepe
-    suscipit vero laudantium, mollitia, quaerat soluta nihil non tempore, quos dignissimos quasi ab officiis
-    illum numquam quibusdam ducimus, veritatis ad. Quia, aliquid. Quaerat quos ducimus ipsam amet minus
-    temporibus eos sequi alias hic nemo."
-    
-  # tab item loop
-  - name : "Approach"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore nobis ducimus facere repellat
-    harum, eius cupiditate, aliquam aut deserunt. Nemo illo ex impedit autem quod nobis architecto, velit
-    quasi, aut voluptas porro natus. Fuga magnam perspiciatis fugit, placeat possimus officia non ducimus
-    voluptatum aspernatur ad quidem neque accusantium repudiandae cupiditate nobis corporis, cum facere
-    iusto, modi cumque consectetur saepe. Officia, molestiae tempore! Consequatur ipsa consequuntur saepe
-    suscipit vero laudantium, mollitia, quaerat soluta nihil non tempore, quos dignissimos quasi ab officiis
-    illum numquam quibusdam ducimus, veritatis ad. Quia, aliquid. Quaerat quos ducimus ipsam amet minus
-    temporibus eos sequi alias hic nemo."
+  - name: Publications
+    content: |
+      Fields Millburn Joshua & Nicodemus Ryan, <i>Everything That Remains</i>, <i>Love People, Use Things, The Opposite Never Works</i>
+      Fortin Cary & Quilici Kyle, <i>New Minimalism</i>
+      Harris Dan, <i>10% Happier</i>
+      Kondo Marie, <i>La magie du rangement, <i>Ranger : l’étincelle du bonheur</i>
+      Loreau Dominique, <i>L'art de la simplicité, simplifier sa vie, c'est l'enrichir</i>, <i>L'art de l'essentiel</i>
+      Newton Anna, <i>An Edited Life</i>
+      Rhone Patrick, <i>Enough</i>
+      Sasaki Fumio, <i>L’essentiel, et rien d’autre</i>
+      Yamashita Hideko, <i>Dan-sha-ri ; l’art du rangement</i>
+  - name: Mission
+    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore nobis
+      ducimus facere repellat harum, eius cupiditate, aliquam aut deserunt. Nemo illo
+      ex impedit autem quod nobis architecto, velit quasi, aut voluptas porro natus.
+      Fuga magnam perspiciatis fugit, placeat possimus officia non ducimus voluptatum
+      aspernatur ad quidem neque accusantium repudiandae cupiditate nobis corporis,
+      cum facere iusto, modi cumque consectetur saepe. Officia, molestiae tempore!
+      Consequatur ipsa consequuntur saepe suscipit vero laudantium, mollitia, quaerat
+      soluta nihil non tempore, quos dignissimos quasi ab officiis illum numquam quibusdam
+      ducimus, veritatis ad. Quia, aliquid. Quaerat quos ducimus ipsam amet minus
+      temporibus eos sequi alias hic nemo.
+  - name: Approach
+    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore nobis
+      ducimus facere repellat harum, eius cupiditate, aliquam aut deserunt. Nemo illo
+      ex impedit autem quod nobis architecto, velit quasi, aut voluptas porro natus.
+      Fuga magnam perspiciatis fugit, placeat possimus officia non ducimus voluptatum
+      aspernatur ad quidem neque accusantium repudiandae cupiditate nobis corporis,
+      cum facere iusto, modi cumque consectetur saepe. Officia, molestiae tempore!
+      Consequatur ipsa consequuntur saepe suscipit vero laudantium, mollitia, quaerat
+      soluta nihil non tempore, quos dignissimos quasi ab officiis illum numquam quibusdam
+      ducimus, veritatis ad. Quia, aliquid. Quaerat quos ducimus ipsam amet minus
+      temporibus eos sequi alias hic nemo.
