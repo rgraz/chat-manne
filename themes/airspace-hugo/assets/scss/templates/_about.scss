@@ -1,7 +1,12 @@
 section.about.section{
 	p{
 		text-align: justify;
+        padding-top: 10px;
 	}
+    h2 {
+        font-size:25px;
+    }
+       
 }	
 .about{
 	.block{
@@ -12,7 +17,7 @@ section.about.section{
 		}
 		p{
 			text-align: justify;
-			padding-top: 20px;
+			padding-top: 30px;
 			padding-right: 50px;
 			line-height:28px;
 		}
