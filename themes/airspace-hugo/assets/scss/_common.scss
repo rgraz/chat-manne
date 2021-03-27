@@ -469,9 +469,11 @@ input[type="tel"] {
     }
 
     li.active a {
-      background-color: $primary-color;
+        //background-color: $primary-color;
+        background-color:#f9f9f9;
       border: 1px solid $primary-color;
-      color: #ffffff;
+      //color: #ffffff;
+      color:$primary-color;
     }
 
     a {
@@ -479,9 +481,10 @@ input[type="tel"] {
       background: #f9f9f9;
 
       &:hover {
-        border: 1px solid transparent;
-        background: $primary-color;
-        color: $light;
+        border: 1px solid $primary-color;
+        //background: $primary-color;
+        background-color:#f9f9f9;
+        color: $primary-color;
       }
     }
   }
