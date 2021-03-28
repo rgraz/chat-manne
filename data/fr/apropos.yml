@@ -39,6 +39,13 @@ valeurs:
 testimonial:
   enable: true
   testimonial_slider:
+  - name: Rick Hanson
+    image: ''
+    designation: Docteur en psychologie
+    content: "Je crois qu’au fond, on ne peut jamais avoir assez de ce qu’on ne veut
+      pas vraiment. En d’autres termes, au fond, on ne veut pas plus de biens, de
+      jouets, de voitures, on veut ce qu’ils vont nous apporter. On veut se sentir
+      complet, satisfait. \n"
   - name: Marie Kondo
     image: ''
     designation: 'Consultante en rangement '
