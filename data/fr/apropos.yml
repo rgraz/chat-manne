@@ -87,6 +87,8 @@ mission_vision:
   - name: Médiagraphie
     publications:
     - auteur: Netflix
+      titre: 'The Minimalists : Less Is Now'
+    - auteur: Netflix
       titre: 'Minimalism : A Documentary About the Important Things'
     - auteur: Becker Joshua
       titre: Becoming Minimalist
