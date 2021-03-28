@@ -5,7 +5,7 @@ categories = ["concept", "home staging"]
 date = 2021-03-08T12:00:00Z
 description = ""
 image = "/images/salonhomestage.jpg"
-tags = ["home staging"]
+tags = []
 title = "Comment faire du home staging concrètement ?"
 type = "post"
 
