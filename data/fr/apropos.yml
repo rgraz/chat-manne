@@ -34,8 +34,8 @@ valeurs:
       résultat '
   - icon: document-lock-outline
     iconhover: document-lock
-    name: Confidentialité
-    content: Je travaille avec vous avec empathie et discrétion
+    name: Confiance
+    content: Je travaille avec vous avec discrétion et confidentialité
 testimonial:
   enable: true
   testimonial_slider:
