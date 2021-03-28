@@ -86,10 +86,6 @@ mission_vision:
       titre: Dan-sha-ri ; l’art du rangement
   - name: Médiagraphie
     publications:
-    - auteur: Netflix
-      titre: 'The Minimalists : Less Is Now'
-    - auteur: Netflix
-      titre: 'Minimalism : A Documentary About the Important Things'
     - auteur: Becker Joshua
       titre: Becoming Minimalist
     - auteur: Carver Courtney
@@ -100,3 +96,7 @@ mission_vision:
       titre: Un-fancy
     - auteur: Jessica Rose Williams
       titre: articles de blog
+    - auteur: Netflix
+      titre: 'The Minimalists : Less Is Now'
+    - auteur: Netflix
+      titre: 'Minimalism : A Documentary About the Important Things'
