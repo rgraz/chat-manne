@@ -1,10 +1,10 @@
 +++
 author = "Marion Clair"
-bg_image = ""
+bg_image = "/images/sparkjoy.jpg"
 categories = []
 date = 2021-03-14T23:00:00Z
 description = ""
-image = ""
+image = "/images/sparkjoy.jpg"
 tags = []
 title = "Qui est Marie Kondō, et pourquoi je n’applique pas sa méthode ?"
 type = "post"
