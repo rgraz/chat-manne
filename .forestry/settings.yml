@@ -19,7 +19,7 @@ sections:
   label: Pages
   create: all
   match: "*"
-  - type: heading
+- type: heading
   label: Blog Post
 - type: directory
   path: content/french/blog
