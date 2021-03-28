@@ -34,8 +34,8 @@ valeurs:
       résultat '
   - icon: document-lock-outline
     iconhover: document-lock
-    name: Confidentialité
-    content: Je travaille avec vous avec empathie et discrétion
+    name: Confiance
+    content: Je travaille avec vous avec discrétion et confidentialité
 testimonial:
   enable: true
   testimonial_slider:
@@ -119,11 +119,13 @@ mission_vision:
       titre: Be More with Less
     - auteur: Fields Millburn Joshua & Nicodemus Ryan
       titre: 'Podcasts '
-    - auteur: Caroline Joy Rector
+    - auteur: Larsson Benita
+      titre: ''
+    - auteur: Rector Caroline Joy
       titre: Un-fancy
-    - auteur: Jessica Rose Williams
-      titre: articles de blog
     - auteur: Netflix
       titre: 'The Minimalists : Less Is Now'
     - auteur: Netflix
       titre: 'Minimalism : A Documentary About the Important Things'
+    - auteur: Williams Jessica Rose
+      titre: articles de blog
