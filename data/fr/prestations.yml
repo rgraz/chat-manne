@@ -82,12 +82,13 @@ prix:
     - Session de 3h pour une pièce/catégorie - 210€
     - Dégressif au-delà de 3 heures
   - name: Pour les pros
-    price: 90€/h
-    content: Service dédié aux professionnels.
+    price: Dès 90€/h
+    content: Service dédié aux professionnels
     link: contact
     services:
     - Rendez-vous échelonnés de façon hebdomadaire ou mensuelle pour s'adapter à votre
       disponibilité
+    - Un tarif basé sur votre profil, artisan ou entreprise
     - Un tarif dégressif dès 2h
   - name: Bénévolat & Tarif réduit
     price: 30€/h maximum
