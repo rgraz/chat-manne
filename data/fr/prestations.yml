@@ -4,10 +4,10 @@ intro:
   title: Comment ça se passe ?
   content: "Une fois que vous m’avez contactée par mail, je reviens vers vous, par
     e-mail ou téléphone selon votre préférence, pour que l’on détermine vos besoins
-    et vos attentes. C’est l’occasion pour moi de me faire une première idée des possibilités
-    (surface à travailler, votre disponibilité, <i>etc.</i>). On fixe ensuite le rendez-vous
-    diagnostic, et c’est parti ! \nSi vous avez la moindre question, n’hésitez pas
-    à me contacter.\n"
+    et vos attentes. \nC’est l’occasion pour moi de me faire une première idée des
+    possibilités (surface à travailler, votre disponibilité, <i>etc.</i>). On fixe
+    ensuite le rendez-vous diagnostic, et c’est parti ! \n\nSi vous avez la moindre
+    question, n’hésitez pas à me contacter.\n"
   image: images/cartonblanc.png
 tripleatouts:
   enable: false
