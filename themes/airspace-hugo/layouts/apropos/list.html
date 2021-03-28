@@ -109,7 +109,12 @@
           <div class="tab-content">
             {{ range $index, $elements := .tabs }}
             <div id="{{.name | urlize | lower}}" class="tab-pane fade {{ if eq $index 0}} active in {{ end }}">
-              <p>{{ .content | markdownify }}</p>
+              <ul>
+                {{range $subindex, $subelements := .publications }}
+              <!--<p>{{ .content | markdownify }}</p>-->
+                <li> <span style='color:#333;'>{{.auteur}}</span>, <i>{{.titre}}</i> </li>
+                {{end}}
+              </ul>
             </div>
             {{ end }}
           </div>
