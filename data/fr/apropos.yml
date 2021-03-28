@@ -39,6 +39,11 @@ valeurs:
 testimonial:
   enable: true
   testimonial_slider:
+  - name: Marie Kondo
+    image: ''
+    designation: 'Consultante en rangement '
+    content: "Nos affaires illustrent avec une grande précision l'historique des décisions
+      que nous avons prises dans notre vie. \n"
   - name: Ludwig Wittgenstein
     image: ''
     designation: Philosophe et mathématicien
