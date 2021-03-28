@@ -5,7 +5,7 @@ categories = ["concept", "home staging "]
 date = 2021-03-01T12:00:00Z
 description = ""
 image = "/images/salonepurepetite.jpg"
-tags = ["home staging"]
+tags = []
 title = "Le home staging, qu’est-ce que c’est ?"
 type = "post"
 
