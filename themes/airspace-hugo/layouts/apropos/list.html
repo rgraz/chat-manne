@@ -82,6 +82,7 @@
         <div class="testimonial-carousel text-center">
           <div class="testimonial-slider owl-carousel">
             {{ range $data.apropos.testimonial.testimonial_slider }}
+            
             <div>
               <ion-icon name="chatbox-ellipses-outline"></ion-icon>
               <p>"{{ .content | markdownify }}"</p>
@@ -89,6 +90,7 @@
                 <p><span>{{ .name | markdownify }}</span> {{ .designation | markdownify }}</p>
               </div>
             </div>
+            
             {{ end }}
           </div>
         </div>

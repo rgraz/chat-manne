@@ -43,11 +43,15 @@ $(document).ready(function () {
 	});
 
 	$('.testimonial-slider').slick({
-		slidesToShow: 1,
+		adaptiveHeight: true,
+        slidesToShow: 1,
 		infinite: true,
-		arrows: false,
+		arrows: true,
+        dots: false,
 		autoplay: true,
-		autoplaySpeed: 2000
+		autoplaySpeed: 10000,
+        prevArrow: $('.prev'),
+        nextArrow: $('.next')
 	});
 
 
