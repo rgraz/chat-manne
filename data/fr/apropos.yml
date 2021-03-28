@@ -51,12 +51,10 @@ testimonial:
       dirait que cet attachement se transfère aux objets, comme s’ils étaient aussi
       importants que les gens. Je ne crois pas qu’on ait une belle relation avec les
       choses. \n"
-  - name: Rose Rio
-    image: images/clients/avater-3.jpg
-    designation: CEO-Themefishey
-    content: This Company created an e-commerce site with the tools to make our business
-      a success, with innovative ideas we feel that our site has unique elements that
-      make us stand out from the crowd.
+  - name: Henry David Thoreau
+    image: ''
+    designation: Philosophe
+    content: "Un homme est riche des choses dont il peut se passer. \n"
 mission_vision:
   enable: true
   tabs:
