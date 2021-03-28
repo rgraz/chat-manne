@@ -61,12 +61,15 @@ mission_vision:
   enable: true
   tabs:
   - name: "Publications"
-    titres:
+    publications:
       - titre: titre1
+        auteur: auteur1
       - titre: titre2
+        auteur: auteur2
 
   - name: "Médias"
-    titres:
+    publications:
       - titre: titre3
+        auteur: auteur3
       - titre: titre4
-
+        auteur: auteur4
