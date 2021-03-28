@@ -12,7 +12,7 @@ publishDir = "docs/"
 title = "Marion Clair | Consultante en rangement"
 [Languages.fr]
 contentDir = "content/french"
-copyright = "Thème adapté de &copy; <a href='https://github.com/themefisher/airspace-hugo' target='_blank'>Theme Fisher</a>, tous droits réservés, 2021"
+copyright = "Thème adapté de &copy;<a href='https://github.com/themefisher/airspace-hugo' target='_blank'>ThemeFisher</a>. Tous droits réservés, 2021"
 languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
