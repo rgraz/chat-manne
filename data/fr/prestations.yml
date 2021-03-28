@@ -94,8 +94,6 @@ prix:
     content: Si vous êtes étudiant-e, non imposable ou au RSA
     link: ''
     services:
-    - Un entretien téléphonique pour définir vos besoins - offert
-    - Une visite diagnostic afin de déterminer le type de besoin ; <i>one shot</i>
-      ou forfait
-    - La mission <i>one shot</i> ou le forfait de 3h - 90€ maximum selon profil
+    - Un entretien téléphonique pour définir vos besoins
+    - Une demi-journée hebdomadaire maximum
     - Un compte-rendu complet pour vous permettre d'avancer en autonomie
