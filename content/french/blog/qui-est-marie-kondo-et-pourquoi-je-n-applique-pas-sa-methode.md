@@ -10,7 +10,7 @@ title = "Qui est Marie Kondō, et pourquoi je n’applique pas sa méthode ?"
 type = "post"
 
 +++
-##### Temps de lecture : 4 minutes
+###### Temps de lecture : 4 minutes
 
 La japonaise de trente-six ans et sa célèbre méthode de rangement ne sont plus à présenter ; 2,5 millions d’exemplaires vendus pour _La Magie du Rangement_, disponible dans 30 pays, élue parmi les 100 personnalités les plus influentes en 2015 par le magazine _Time_[_\[1\]_](#_ftn1), deux docu-séries produites par Netflix, une boutique en ligne depuis 2019, des formations de trois jours pour la certification _KonMari_ à 2000€…
 
