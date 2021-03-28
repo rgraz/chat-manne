@@ -5,7 +5,7 @@ categories = ["Tri", "Concept"]
 date = 2021-03-14T23:00:00Z
 description = ""
 image = "/images/sparkjoy.jpg"
-tags = ["Tri", "Marie Kondō"]
+tags = ["Marie Kondō"]
 title = "Qui est Marie Kondō, et pourquoi je n’applique pas sa méthode ?"
 type = "post"
 

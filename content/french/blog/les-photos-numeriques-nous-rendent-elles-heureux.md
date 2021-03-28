@@ -5,7 +5,7 @@ categories = ["tri"]
 date = 2021-03-22T12:00:00Z
 description = ""
 image = "/images/appareilphotoplage.jpg"
-tags = ["tri", "photos "]
+tags = ["photos "]
 title = "Ces photos numériques qui nous encombrent"
 type = "post"
 
