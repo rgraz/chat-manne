@@ -39,6 +39,10 @@ valeurs:
 testimonial:
   enable: true
   testimonial_slider:
+  - name: René Char
+    image: ''
+    designation: Poète et résistant
+    content: "L’essentiel est sans cesse menacé par l’insignifiant. \n"
   - name: Rick Hanson
     image: ''
     designation: Docteur en psychologie
