@@ -43,12 +43,14 @@ testimonial:
     image: ''
     designation: Architecte
     content: 'Less is more. '
-  - name: Randi Renin
-    image: images/clients/avater-1.jpg
-    designation: CEO-Themefisher
-    content: This Company created an e-commerce site with the tools to make our business
-      a success, with innovative ideas we feel that our site has unique elements that
-      make us stand out from the crowd.
+  - name: Gail Steketee
+    image: ''
+    designation: 'Docteure en psychologie cognitive '
+    content: "Il est clair qu’en tant qu’êtres humains, on a un fort attachement,
+      au début de notre vie, envers les gens qui prennent soin de nous. Parfois, on
+      dirait que cet attachement se transfère aux objets, comme s’ils étaient aussi
+      importants que les gens. Je ne crois pas qu’on ait une belle relation avec les
+      choses. \n"
   - name: Rose Rio
     image: images/clients/avater-3.jpg
     designation: CEO-Themefishey
