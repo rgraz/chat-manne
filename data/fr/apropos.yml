@@ -62,14 +62,32 @@ mission_vision:
   tabs:
   - name: "Publications"
     publications:
-      - titre: titre1
-        auteur: auteur1
-      - titre: titre2
-        auteur: auteur2
-
+      - auteur: Fields Millburn Joshua & Nicodemus Ryan
+        titre: Everything That Remains, Love People, Use Things, The Opposite Never Works
+      - auteur: Fortin Cary & Quilici Kyle
+        titre: New minimalism
+      - auteur: Harris Dan
+        titre: 10% Happier
+      - auteur: Kondo Marie
+        titre: La magie du rangement, Ranger : l’étincelle du bonheur
+      - auteur: Loreau Dominique
+        titre: L'art de la simplicité, simplifier sa vie, c'est l'enrichir* | L'art de l'essentiel
+      - auteur: Newton Anna
+        titre: An Edited Life
+      - auteur: Rhone Patrick
+        titre: Enough
+      - auteur: Sasaki Fumio
+        titre: L’essentiel, et rien d’autre
+      - auteur: Yamashita Hideko
+        titre: Dan-sha-ri ; l’art du rangement
+        
   - name: "Médias"
     publications:
-      - titre: titre3
-        auteur: auteur3
-      - titre: titre4
-        auteur: auteur4
+      - auteur: Carver Courtney
+        titre: Be More with Less
+      - auteur: Fields Millburn Joshua & Nicodemus Ryan
+        titre: Podcasts Minimalism : A Documentary About the Important Things | Minimalism : Less Is Now
+      - auteur: Caroline Joy Rector
+        titre: 
+      - auteur: Jessica Rose Williams
+        titre: 
