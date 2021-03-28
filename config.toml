@@ -4,6 +4,7 @@ disableLanguageSwitchingButton = true
 disableLanguages = ["en"]
 disqusShortname = ""
 paginate = "4"
+removePathAccents = true
 summaryLength = "30"
 theme = "airspace-hugo"
 themesDir = "themes/"
