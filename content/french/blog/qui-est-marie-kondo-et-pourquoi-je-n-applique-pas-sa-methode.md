@@ -1,11 +1,11 @@
 +++
 author = "Marion Clair"
 bg_image = "/images/sparkjoy.jpg"
-categories = []
+categories = ["Tri", "Concept"]
 date = 2021-03-14T23:00:00Z
 description = ""
 image = "/images/sparkjoy.jpg"
-tags = []
+tags = ["Tri", "Marie Kondō"]
 title = "Qui est Marie Kondō, et pourquoi je n’applique pas sa méthode ?"
 type = "post"
 
