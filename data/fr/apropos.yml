@@ -113,19 +113,19 @@ mission_vision:
       titre: Dan-sha-ri ; l’art du rangement
   - name: Médiagraphie
     publications:
-    - auteur: Larsson Benita
-      titre: ''
     - auteur: Becker Joshua
       titre: Becoming Minimalist
     - auteur: Carver Courtney
       titre: Be More with Less
     - auteur: Fields Millburn Joshua & Nicodemus Ryan
       titre: 'Podcasts '
+    - auteur: Larsson Benita
+      titre: ''
     - auteur: Rector Caroline Joy
       titre: Un-fancy
-    - auteur: Williams Jessica Rose
-      titre: articles de blog
     - auteur: Netflix
       titre: 'The Minimalists : Less Is Now'
     - auteur: Netflix
       titre: 'Minimalism : A Documentary About the Important Things'
+    - auteur: Williams Jessica Rose
+      titre: articles de blog
