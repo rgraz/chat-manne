@@ -9,9 +9,9 @@ quisuisje:
     À côté des études, ranger et réagencer étaient mon passe-temps favori et j’étais
     sollicitée par mes amis et ma famille pour mes compétences de tri et d’organisation.
     C’est en 2015, lorsque l’essor du métier a commencé grâce à la traduction française
-    de The Magic of Tidying-up de Marie Kondo que faire de ma passion un métier s’est
-    révélé comme une évidence. Mes compétences complémentaires avec d’une part, les
-    sciences humaines et d’autre part, ma capacité à voir le potentiel d’un espace
+    de *The Magic of Tidying-up* de Marie Kondo que faire de ma passion un métier
+    s’est révélé comme une évidence. Mes compétences complémentaires avec d’une part,
+    les sciences humaines et d’autre part, ma capacité à voir le potentiel d’un espace
     intérieur, me permettent d’être une source de motivation et de soutien sans faille
     dans vos projets et vos idées.
   button:
@@ -57,7 +57,6 @@ testimonial:
     content: This Company created an e-commerce site with the tools to make our business
       a success, with innovative ideas we feel that our site has unique elements that
       make us stand out from the crowd.
-      
 mission_vision:
   enable: true
   tabs:
