@@ -39,6 +39,10 @@ valeurs:
 testimonial:
   enable: true
   testimonial_slider:
+  - name: Ludwig Wittgenstein
+    image: ''
+    designation: Philosophe et mathématicien
+    content: "La simplicité est le sceau de la vérité. \n"
   - name: Juliet Schor
     image: ''
     designation: Sociologue et économiste
