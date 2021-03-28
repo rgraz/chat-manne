@@ -89,7 +89,7 @@ prix:
     - Rendez-vous échelonnés de façon hebdomadaire ou mensuelle pour s'adapter à votre
       disponibilité
     - Un tarif basé sur votre profil, artisan ou entreprise
-    - Un tarif dégressif dès 2h
+    - Un tarif dégressif dès 4 heures
   - name: Bénévolat & Tarif réduit
     price: 30€/h maximum
     content: Si vous êtes étudiant-e, non imposable ou au RSA.
