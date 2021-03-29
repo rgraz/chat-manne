@@ -66,8 +66,6 @@ Avant cela, je me suis donné deux semaines de réflexion. J’avais une quarant
 
 Je ne regrette pas. Je suis pourtant adepte de photographie, et j’étais fière de dizaines de portraits d’ami-e-s que j’ai pu faire ces dix dernières années. Mais avoir mes clichés favoris développés et joliment conservés est entièrement suffisant.
 
-**_La légèreté du souvenir, c’est le discours_**
-
 Lorsque je suis partie vivre deux mois aux États-Unis en 2019, je n’ai emmené qu’un appareil photo jetable (qui complétait quelques prises _via_ mon téléphone), pour être sûre de faire une quantité limitée de photos, et, surtout, de les faire développer. Je suis ravie de ce choix. C’était drôle de demander aux passants de me prendre en photo comme dans les années 1990, j’étais davantage dans l’instant présent, je choisissais en toute conscience quelle photo prendre ou ne pas prendre, et j’en retiens surtout que ces souvenirs, je les possède bel et bien ; je les ai raconté à mes proches, plus que je ne le leur ai fait regarder. Bref ; faire moins de photos, ce n’était que des bénéfices !
 
 **_Et vous ?_**

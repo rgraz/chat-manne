@@ -4,11 +4,11 @@ disableLanguageSwitchingButton = true
 disableLanguages = ["en"]
 disqusShortname = ""
 paginate = "4"
+publishDir = "docs/"
 removePathAccents = true
 summaryLength = "30"
 theme = "airspace-hugo"
 themesDir = "themes/"
-publishDir = "docs/"
 title = "Marion Clair | Consultante en rangement"
 [Languages.fr]
 contentDir = "content/french"
@@ -64,7 +64,7 @@ home = ["HTML"]
 author = "Marion Clair"
 contact_form_action = "#"
 description = ""
-email = "demo@email.com"
+email = "contact@marionclair.com"
 google_analitycs_id = ""
 location = "Lyon, France"
 logo = "images/marionclair.png"
@@ -96,19 +96,12 @@ link = "plugins/magnific-popup/magnific-popup.min.css"
 [[params.plugins.css]]
 attributes = ""
 link = "plugins/slick/slick.css"
-
 [[params.plugins.css]]
 attributes = ""
 link = "plugins/animate/animate.min.css"
-
 [[params.plugins.js]]
 attributes = ""
 link = "plugins/wow/wow.min.js"
-
-
-
-
-
 [[params.plugins.js]]
 attributes = ""
 link = "plugins/jQuery/jquery.min.js"
@@ -116,7 +109,6 @@ link = "plugins/jQuery/jquery.min.js"
 attributes = ""
 link = "plugins/bootstrap/bootstrap.min.js"
 [[params.plugins.js]]
-
 attributes = ""
 link = "plugins/slick/slick.min.js"
 [[params.plugins.js]]
@@ -131,12 +123,6 @@ link = "plugins/google-map/gmap.js"
 [[params.plugins.js]]
 attributes = ""
 link = "https://unpkg.com/ionicons@5.4.0/dist/ionicons.js"
-
-
-
-
-
-
 [params.preloader]
 enable = true
 preloader = ""
