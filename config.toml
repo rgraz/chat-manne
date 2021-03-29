@@ -62,7 +62,7 @@ unsafe = true
 home = ["HTML"]
 [params]
 author = "Marion Clair"
-contact_form_action = "#"
+contact_form_action = "mailto:contact@marionclair.com"
 description = ""
 email = "contact@marionclair.com"
 google_analitycs_id = ""
