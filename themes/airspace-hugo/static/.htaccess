@@ -14,7 +14,3 @@ AddOutputFilterByType DEFLATE image/gif
 AddOutputFilterByType DEFLATE image/jpeg
 AddOutputFilterByType DEFLATE image/svg+xml
 </IfModule>
-
-RewriteEngine on
-RewriteCond %{HTTP:X-Forwarded-Proto} !https
-RewriteRule (.*) https://www.marionclair.com/$1 [R=301,L]
