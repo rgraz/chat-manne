@@ -62,9 +62,9 @@ unsafe = true
 home = ["HTML"]
 [params]
 author = "Marion Clair"
-contact_form_action = "mailto:contact@marionclair.com"
+contact_form_action = "#"
 description = ""
-email = "contact@marionclair.com"
+email = "contact[at]marionclair.com"
 google_analitycs_id = ""
 location = "Lyon, France"
 logo = "images/marionclair.png"
