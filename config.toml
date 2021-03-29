@@ -1,4 +1,4 @@
-baseURL = "http://www.marionclair.com"
+baseURL = "http://marionclair.com"
 defaultContentLanguage = "fr"
 disableLanguageSwitchingButton = true
 disableLanguages = ["en"]
