@@ -12,7 +12,7 @@ themesDir = "themes/"
 title = "Marion Clair | Consultante en rangement"
 [Languages.fr]
 contentDir = "content/french"
-copyright = "Thème adapté de &copy;<a href='https://github.com/themefisher/airspace-hugo' target='_blank'>ThemeFisher</a>. Tous droits réservés, 2021"
+copyright = ""
 languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
