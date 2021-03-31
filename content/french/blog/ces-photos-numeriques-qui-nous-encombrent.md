@@ -44,17 +44,17 @@ Déroutée face à cette conservation astronomique de souvenirs, je me suis fait
 
 ##### **_À peine soixante ans avec la photographie_**
 
-La photographie instantanée ne fut inventée et commercialisée qu’en 1880, et _Kodak_ inventa son premier boîtier en 1889\[^1\]. A ce moment-là, on se faisait prendre en photo comme auparavant on se faisait peindre un portrait ; selon une logique dynastique, ou à l’occasion d’évènements\[^2\] (communion, mariage, naissance, service militaire etc.).
+La photographie instantanée ne fut inventée et commercialisée qu’en 1880, et _Kodak_ inventa son premier boîtier en 1889[^1]. A ce moment-là, on se faisait prendre en photo comme auparavant on se faisait peindre un portrait ; selon une logique dynastique, ou à l’occasion d’évènements[^2] (communion, mariage, naissance, service militaire etc.).
 
-Ce n’est qu’à partir des années 1930 qu’émerge la photographie familiale telle qu’on la connaît actuellement, notamment quand ce sont les enfants les sujets. « En d’autres termes, la photographie n’est devenue incontournable dans l’image de soi que depuis peu. Ce n’était pas encore le cas à cette époque »\[^3\]. La photo n’avait pour objectif que la conservation du souvenir. C’était un objet formel ; il fallait prendre rendez-vous avec un·e professionnel·le, s’être préparé pour le cliché, et la finalité était de l’exposer sur un mur du foyer.
+Ce n’est qu’à partir des années 1930 qu’émerge la photographie familiale telle qu’on la connaît actuellement, notamment quand ce sont les enfants les sujets. « En d’autres termes, la photographie n’est devenue incontournable dans l’image de soi que depuis peu. Ce n’était pas encore le cas à cette époque »[^3]. La photo n’avait pour objectif que la conservation du souvenir. C’était un objet formel ; il fallait prendre rendez-vous avec un·e professionnel·le, s’être préparé pour le cliché, et la finalité était de l’exposer sur un mur du foyer.
 
-C’est ensuite dans les années 1960 que la photo devient une pratique de masse et n’est plus réservée aux classes privilégiées\[^4\]. On prend les photos nous-mêmes, et on en prend davantage ; il n’y a plus de photo « unique » où l’on réfléchit plusieurs jours à l’avance et dont l’objectif est d’être encadrée chez soi.
+C’est ensuite dans les années 1960 que la photo devient une pratique de masse et n’est plus réservée aux classes privilégiées[^4]. On prend les photos nous-mêmes, et on en prend davantage ; il n’y a plus de photo « unique » où l’on réfléchit plusieurs jours à l’avance et dont l’objectif est d’être encadrée chez soi.
 
 L’ère du numérique achève de modifier la conception de prise de photos. Les photos ne sont plus stockées sur des pellicules qui doivent ensuite être développées, mais sur des cartes SD dont la capacité est au moins cent fois supérieure à celle des pellicules, et on ne passe plus nécessairement par le développement pour voir nos clichés ; on les télécharge simplement sur un ordinateur.
 
 ##### **_C’est le discours qui matérialise le souvenir, pas l’objet_**
 
-Un [article de socio-anthropologie](https://journals.openedition.org/socio-anthropologie/1797) très intéressant étudie notre attachement affectif aux objets. L’autrice démontre que « C’est donc en tant que dispositif narratif que l’objet doit être considéré. Il compte en effet moins pour ce qu’il est que pour la possibilité de produire un discours. »\[^5\]. Les photos souvenirs que nous prenons la peine de développer étant des objets, elles comptent davantage comme support du souvenir à raconter que comme objet intrinsèquement important. Le discours compte plus que le morceau de papier glacé, et n’a pas besoin de lui pour exister.
+Un [article de socio-anthropologie](https://journals.openedition.org/socio-anthropologie/1797) très intéressant étudie notre attachement affectif aux objets. L’autrice démontre que « C’est donc en tant que dispositif narratif que l’objet doit être considéré. Il compte en effet moins pour ce qu’il est que pour la possibilité de produire un discours. »[^5]. Les photos souvenirs que nous prenons la peine de développer étant des objets, elles comptent davantage comme support du souvenir à raconter que comme objet intrinsèquement important. Le discours compte plus que le morceau de papier glacé, et n’a pas besoin de lui pour exister.
 
 ##### **_Une photographie n’est pas un souvenir matérialisé_**
 
@@ -74,12 +74,12 @@ Lorsque je suis partie vivre deux mois aux États-Unis en 2019, je n’ai emmen�
 
 Faute d’être aussi catégorique que moi à supprimer l’intégralité de vos photos numériques, je vous invite à vous interroger sur les raisons pour lesquelles vous les conservez virtuellement, si vous les avez déjà triées, et si vos divers supports de photos numériques plus ou moins débordants vous apportent quelque chose au quotidien.
 
-\[^1\]: Christian Joschke, « Aux origines des usages sociaux de la photographie », Actes de la recherche en sciences sociales 2004/4 (no 154), pages 53 à 65
+[^1]: Christian Joschke, « Aux origines des usages sociaux de la photographie », Actes de la recherche en sciences sociales 2004/4 (no 154), pages 53 à 65
 
-\[^2\]: Sylvain Maresca, « L’introduction de la photographie dans la vie quotidienne », Études photographiques 15, 2004, pages 61-77.
+[^2]: Sylvain Maresca, « L’introduction de la photographie dans la vie quotidienne », Études photographiques 15, 2004, pages 61-77.
 
-\[^3\]: Sylvain Maresca, _ibid_.
+[^3]: Sylvain Maresca, _ibid_.
 
-\[^4\]: Sylvain Maresca, « L’art en personne. Pour une histoire sociale du portrait : La production amateur de portraits photographiques », Hal, archives ouvertes, 2020.
+[^4]: Sylvain Maresca, « L’art en personne. Pour une histoire sociale du portrait : La production amateur de portraits photographiques », Hal, archives ouvertes, 2020.
 
-\[^5\]: Véronique Dassié, « Les souvenirs domestiques, un retournement affectif », Socio-anthropologie 30, 2014, pages 33-46.
+[^5]: Véronique Dassié, « Les souvenirs domestiques, un retournement affectif », Socio-anthropologie 30, 2014, pages 33-46.
