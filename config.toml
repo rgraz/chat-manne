@@ -63,7 +63,7 @@ home = ["HTML"]
 [params]
 author = "Marion Clair"
 contact_form_action = "https://formspree.io/f/xpzkangg"
-description = ""
+description = "Marion Clair, consultante en rangement et home organiser dans la ville de Lyon. Ateliers rangements, tri, désencombrement et accompagnement dans l'organisation de la maison."
 email = "contact[at]marionclair.com"
 google_analitycs_id = ""
 location = "Lyon, France"
