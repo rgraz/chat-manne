@@ -88,12 +88,20 @@
     }
 
     blockquote {
-      margin-top: 20px;
+        margin-top: 20px;
+        margin-left:30px;
       font-size: 18px;
       border-color: $primary-color;
       padding: 10px 20px;
-      text-align: left;
+      padding-right:100px;
+      text-align: justify;
+      
       color: #777;
+      p {
+          font-size:14px;
+          margin: 0 0 10px;
+          text-align: justify;
+      }
     }
 
     .btn-main {
@@ -102,6 +110,14 @@
       font-size: 12px;
     }
   }
+  
+  
+  .footnotes{              
+      li, p{                
+          font-size: 13px; 
+      }                    
+  }                        
+  
 }
 
 .post-pagination {
