@@ -42,7 +42,7 @@
     h1t {
       //font-weight: 100;
       font-weight: 300;
-      color: $primary-color;
+      color: darken($primary-color,10%);
       font-size: 35px;
       line-height: 60px;
       letter-spacing: 5px;
