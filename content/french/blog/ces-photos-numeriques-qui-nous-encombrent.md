@@ -1,11 +1,11 @@
 +++
 author = "Marion Clair"
 bg_image = "/images/appareilphotoplage.jpg"
-categories = []
+categories = ["Tri"]
 date = 2021-03-29T11:00:00Z
 description = ""
 image = "/images/appareilphotoplage.jpg"
-tags = []
+tags = ["Photos"]
 title = "Ces photos numériques qui nous encombrent"
 type = "post"
 
