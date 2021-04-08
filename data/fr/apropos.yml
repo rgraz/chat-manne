@@ -44,10 +44,18 @@ testimonial:
     designation: Médecin psychiatre et auteur
     content: La légèreté vaut mieux que la pesanteur, la liberté vaut mieux que la
       servitude.
-  - name: René Char
+  - name: Gail Steketee
     image: ''
-    designation: Poète et résistant
-    content: "L’essentiel est sans cesse menacé par l’insignifiant. \n"
+    designation: 'Docteure en psychologie cognitive '
+    content: "Il est clair qu’en tant qu’êtres humains, on a un fort attachement,
+      au début de notre vie, envers les gens qui prennent soin de nous. Parfois, on
+      dirait que cet attachement se transfère aux objets, comme s’ils étaient aussi
+      importants que les gens. Je ne crois pas qu’on ait une belle relation avec les
+      choses. \n"
+  - name: Henry David Thoreau
+    image: ''
+    designation: Philosophe
+    content: "Un homme est riche des choses dont il peut se passer. \n"
   - name: Rick Hanson
     image: ''
     designation: Docteur en psychologie
@@ -72,22 +80,14 @@ testimonial:
       un monde où les biens matériels sont très importants en raison de leur signification
       symbolique, du statut qu’ils nous permettent d’avoir, d’après la publicité ou
       le marketing de chaque produit. \n"
+  - name: René Char
+    image: ''
+    designation: Poète et résistant
+    content: "L’essentiel est sans cesse menacé par l’insignifiant. \n"
   - name: Ludwig Mies van der Rohe
     image: ''
     designation: Architecte
     content: 'Less is more. '
-  - name: Gail Steketee
-    image: ''
-    designation: 'Docteure en psychologie cognitive '
-    content: "Il est clair qu’en tant qu’êtres humains, on a un fort attachement,
-      au début de notre vie, envers les gens qui prennent soin de nous. Parfois, on
-      dirait que cet attachement se transfère aux objets, comme s’ils étaient aussi
-      importants que les gens. Je ne crois pas qu’on ait une belle relation avec les
-      choses. \n"
-  - name: Henry David Thoreau
-    image: ''
-    designation: Philosophe
-    content: "Un homme est riche des choses dont il peut se passer. \n"
 mission_vision:
   enable: true
   tabs:
