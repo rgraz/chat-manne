@@ -39,6 +39,11 @@ valeurs:
 testimonial:
   enable: true
   testimonial_slider:
+  - name: Christophe André
+    image: ''
+    designation: Médecin psychiatre et auteur
+    content: La légèreté vaut mieux que la pesanteur, la liberté vaut mieux que la
+      servitude.
   - name: René Char
     image: ''
     designation: Poète et résistant
