@@ -1,7 +1,7 @@
 ---
 quisuisje:
   enable: true
-  image: images/mcportrait.JPG
+  image: "/images/mcportrait.JPG"
   title: Qui suis-je ?
   content: Lyonnaise d'adoption depuis huit ans, c'est en venant terminer mon master
     universitaire que je m’y suis définitivement installée. Diplômée en sociologie,
