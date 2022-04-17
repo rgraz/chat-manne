@@ -131,6 +131,3 @@ sidebar = ["recent_posts", "taxonomy_category", "taxonomy_tags"]
 [[params.social]]
 icon = "logo-pinterest"
 link = "https://www.pinterest.fr/marionclairhome/"
-[[params.social]]
-icon = "logo-instagram"
-link = "https://www.instagram.com/marionclairhome/"
